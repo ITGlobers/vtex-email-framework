@@ -1,0 +1,2286 @@
+{
+	"package": {
+		"items": [
+			{
+				"itemIndex": 0,
+				"quantity": 1,
+				"price": 8330,
+				"description": null,
+				"unitMultiplier": 0.0
+			},
+			{
+				"itemIndex": 1,
+				"quantity": 1,
+				"price": 6930,
+				"description": null,
+				"unitMultiplier": 0.0
+			},
+			{
+				"itemIndex": 2,
+				"quantity": 1,
+				"price": 11130,
+				"description": null,
+				"unitMultiplier": 0.0
+			},
+			{
+				"itemIndex": 3,
+				"quantity": 1,
+				"price": 6930,
+				"description": null,
+				"unitMultiplier": 0.0
+			},
+			{
+				"itemIndex": 4,
+				"quantity": 1,
+				"price": 6930,
+				"description": null,
+				"unitMultiplier": 0.0
+			},
+			{
+				"itemIndex": 5,
+				"quantity": 1,
+				"price": 8330,
+				"description": null,
+				"unitMultiplier": 0.0
+			},
+			{
+				"itemIndex": 6,
+				"quantity": 1,
+				"price": 6930,
+				"description": null,
+				"unitMultiplier": 0.0
+			},
+			{
+				"itemIndex": 7,
+				"quantity": 1,
+				"price": 0,
+				"description": null,
+				"unitMultiplier": 0.0
+			},
+			{
+				"itemIndex": 8,
+				"quantity": 1,
+				"price": 6930,
+				"description": null,
+				"unitMultiplier": 0.0
+			}
+		],
+		"courier": "CD - CAMPO GRANDE - DCASA COPIAS (CORREIOS)",
+		"invoiceNumber": "50200443470566002567550010001947131256153076",
+		"invoiceValue": 62440,
+		"invoiceUrl": null,
+		"issuanceDate": "2020-04-22T11:32:59",
+		"trackingNumber": "OI252957897BR",
+		"invoiceKey": "50200443470566002567550010001947131256153076",
+		"trackingUrl": "https://www2.correios.com.br/sistemas/rastreamento/",
+		"embeddedInvoice": "",
+		"type": "Output",
+		"courierStatus": {
+			"status": "unknown",
+			"finished": false,
+			"deliveredDate": "0001-01-01T00:00:00",
+			"data": []
+		},
+		"cfop": null,
+		"restitutions": {},
+		"volumes": 0
+	},
+	"subjectItemAttachment": {
+		"item": "COLAR LONGO RESINA M...",
+		"totalItems": 9,
+		"extraItems": 8
+	},
+	"cancellationReason": null,
+	"items": [
+		{
+			"additionalInfo": {
+				"dimension": {
+					"cubicweight": 0.0,
+					"height": 1.0,
+					"length": 1.0,
+					"weight": 140.0,
+					"width": 1.0
+				},
+				"categoriesIds": "/17/23/",
+				"productClusterId": "136,226,235,284,348,447,459,466,468,510,514",
+				"commercialConditionId": "1",
+				"brandName": "SHOULDER",
+				"brandId": "1",
+				"offeringInfo": null,
+				"offeringType": null,
+				"offeringTypeId": null
+			},
+			"sellerSku": "2053271",
+			"priceTable": null,
+			"priceValidUntil": "2020-04-30T08:00:00Z",
+			"callCenterOperator": null,
+			"commission": 0,
+			"freightCommission": 0,
+			"taxCode": "62144000",
+			"costPrice": null,
+			"uniqueId": "A4129A0139C144A9AF5BADC1795D8A72",
+			"id": "2053271",
+			"productId": "2009091",
+			"productRefId": "201154201",
+			"refId": "2011542011023UN",
+			"ean": "2011542011023UN",
+			"name": "LENCO VISCOSE XADREZ-ESTAMPADO-UN",
+			"skuName": "LENCO VISCOSE XADREZ-ESTAMPADO-UN",
+			"modalType": null,
+			"parentItemIndex": null,
+			"parentAssemblyBinding": null,
+			"assemblies": [],
+			"tax": 0,
+			"priceDefinitions": null,
+			"price": 11900,
+			"listPrice": 11900,
+			"manualPrice": null,
+			"sellingPrice": 8330,
+			"orderRewardStatus": null,
+			"rewardValue": 0,
+			"isGift": false,
+			"preSaleDate": null,
+			"productCategoryIds": "/17/23/",
+			"productCategories": {
+				"23": "Lenços",
+				"17": "Acessórios"
+			},
+			"quantity": 1,
+			"seller": "1",
+			"sellerChain": [
+				"1"
+			],
+			"imageUrl": "http://shoulder.vteximg.com.br/arquivos/ids/1702338-200-255/201154201_1023_010-LENCO-VISCOSE-XADREZ.jpg?v=637203137080600000",
+			"detailUrl": "/lenco-viscose-xadrez-201154201/p",
+			"components": [],
+			"bundleItems": [],
+			"attachments": [],
+			"attachmentOfferings": [],
+			"offerings": [],
+			"priceTags": [
+				{
+					"name": "discount@price-a652fff1-05a1-4f90-aa27-fb45b85984ef#9676fd6f-5720-4dd2-952b-5b295382bd06",
+					"value": -3570,
+					"rawValue": -35.7,
+					"isPercentual": false,
+					"identifier": "a652fff1-05a1-4f90-aa27-fb45b85984ef"
+				},
+				{
+					"name": "discount@shipping-7138a6c7-8c72-4358-92fe-101f16aef375#e52b350f-c662-43f5-b3f1-2cd0e867240d",
+					"value": -1202,
+					"rawValue": -12.02,
+					"isPercentual": false,
+					"identifier": "7138a6c7-8c72-4358-92fe-101f16aef375"
+				},
+				{
+					"name": "discount@shipping-e4ee5c5d-744c-4a73-98d5-1d32daebec64#8e612389-6467-4216-90f4-201792fcc36f",
+					"value": -1202,
+					"rawValue": -12.02,
+					"isPercentual": false,
+					"identifier": "e4ee5c5d-744c-4a73-98d5-1d32daebec64"
+				}
+			],
+			"availability": "available",
+			"measurementUnit": "un",
+			"unitMultiplier": 1.0,
+			"manufacturerCode": null
+		},
+		{
+			"additionalInfo": {
+				"dimension": {
+					"cubicweight": 0.0,
+					"height": 1.0,
+					"length": 1.0,
+					"weight": 140.0,
+					"width": 1.0
+				},
+				"categoriesIds": "/17/23/",
+				"productClusterId": "136,226,235,284,348,447,459,466,468,510",
+				"commercialConditionId": "1",
+				"brandName": "SHOULDER",
+				"brandId": "1",
+				"offeringInfo": null,
+				"offeringType": null,
+				"offeringTypeId": null
+			},
+			"sellerSku": "2052895",
+			"priceTable": null,
+			"priceValidUntil": "2020-04-30T08:00:00Z",
+			"callCenterOperator": null,
+			"commission": 0,
+			"freightCommission": 0,
+			"taxCode": "62144000",
+			"costPrice": null,
+			"uniqueId": "1ED331547460490C9297F16CE490C522",
+			"id": "2052895",
+			"productId": "2009025",
+			"productRefId": "201152101",
+			"refId": "2011521010801UN",
+			"ean": "2011521010801UN",
+			"name": "LENCO VISCOSE BORDEAUX-VERMELHO-UN",
+			"skuName": "LENCO VISCOSE BORDEAUX-VERMELHO-UN",
+			"modalType": null,
+			"parentItemIndex": null,
+			"parentAssemblyBinding": null,
+			"assemblies": [],
+			"tax": 0,
+			"priceDefinitions": null,
+			"price": 9900,
+			"listPrice": 9900,
+			"manualPrice": null,
+			"sellingPrice": 6930,
+			"orderRewardStatus": null,
+			"rewardValue": 0,
+			"isGift": false,
+			"preSaleDate": null,
+			"productCategoryIds": "/17/23/",
+			"productCategories": {
+				"23": "Lenços",
+				"17": "Acessórios"
+			},
+			"quantity": 1,
+			"seller": "1",
+			"sellerChain": [
+				"1"
+			],
+			"imageUrl": "http://shoulder.vteximg.com.br/arquivos/ids/1701679-200-255/201152101_0801_010-LENCO-VISCOSE-BORDEAUX.jpg?v=637201368281430000",
+			"detailUrl": "/lenco-viscose-bordeaux-201152101/p",
+			"components": [],
+			"bundleItems": [],
+			"attachments": [],
+			"attachmentOfferings": [],
+			"offerings": [],
+			"priceTags": [
+				{
+					"name": "discount@price-a652fff1-05a1-4f90-aa27-fb45b85984ef#9676fd6f-5720-4dd2-952b-5b295382bd06",
+					"value": -2970,
+					"rawValue": -29.7,
+					"isPercentual": false,
+					"identifier": "a652fff1-05a1-4f90-aa27-fb45b85984ef"
+				},
+				{
+					"name": "discount@shipping-7138a6c7-8c72-4358-92fe-101f16aef375#e52b350f-c662-43f5-b3f1-2cd0e867240d",
+					"value": -518,
+					"rawValue": -5.18,
+					"isPercentual": false,
+					"identifier": "7138a6c7-8c72-4358-92fe-101f16aef375"
+				},
+				{
+					"name": "discount@shipping-e4ee5c5d-744c-4a73-98d5-1d32daebec64#8e612389-6467-4216-90f4-201792fcc36f",
+					"value": -1202,
+					"rawValue": -12.02,
+					"isPercentual": false,
+					"identifier": "e4ee5c5d-744c-4a73-98d5-1d32daebec64"
+				}
+			],
+			"availability": "available",
+			"measurementUnit": "un",
+			"unitMultiplier": 1.0,
+			"manufacturerCode": null
+		},
+		{
+			"additionalInfo": {
+				"dimension": {
+					"cubicweight": 0.0,
+					"height": 1.0,
+					"length": 1.0,
+					"weight": 60.0,
+					"width": 1.0
+				},
+				"categoriesIds": "/17/18/",
+				"productClusterId": "136,226,235,284,348,447,459,466,468,509,510",
+				"commercialConditionId": "1",
+				"brandName": "SHOULDER",
+				"brandId": "1",
+				"offeringInfo": null,
+				"offeringType": null,
+				"offeringTypeId": null
+			},
+			"sellerSku": "2051591",
+			"priceTable": null,
+			"priceValidUntil": "2020-04-30T08:00:00Z",
+			"callCenterOperator": null,
+			"commission": 0,
+			"freightCommission": 0,
+			"taxCode": "71171900",
+			"costPrice": null,
+			"uniqueId": "BE3870464A56450EB55EEC04CC2FA09E",
+			"id": "2051591",
+			"productId": "2008815",
+			"productRefId": "201264000",
+			"refId": "2012640000074UN",
+			"ean": "2012640000074UN",
+			"name": "COLAR LONGO RESINA MANCHADA-ESTAMPADO-UN",
+			"skuName": "COLAR LONGO RESINA MANCHADA-ESTAMPADO-UN",
+			"modalType": null,
+			"parentItemIndex": null,
+			"parentAssemblyBinding": null,
+			"assemblies": [],
+			"tax": 0,
+			"priceDefinitions": null,
+			"price": 15900,
+			"listPrice": 15900,
+			"manualPrice": null,
+			"sellingPrice": 11130,
+			"orderRewardStatus": null,
+			"rewardValue": 0,
+			"isGift": false,
+			"preSaleDate": null,
+			"productCategoryIds": "/17/18/",
+			"productCategories": {
+				"18": "Bijoux",
+				"17": "Acessórios"
+			},
+			"quantity": 1,
+			"seller": "1",
+			"sellerChain": [
+				"1"
+			],
+			"imageUrl": "http://shoulder.vteximg.com.br/arquivos/ids/1704453-200-255/201264000_0074_010-COLAR-LONGO-RESINA-MANCHADA.jpg?v=637209396204000000",
+			"detailUrl": "/colar-longo-resina-manchada-201264000/p",
+			"components": [],
+			"bundleItems": [],
+			"attachments": [],
+			"attachmentOfferings": [],
+			"offerings": [],
+			"priceTags": [
+				{
+					"name": "discount@price-a652fff1-05a1-4f90-aa27-fb45b85984ef#9676fd6f-5720-4dd2-952b-5b295382bd06",
+					"value": -4770,
+					"rawValue": -47.7,
+					"isPercentual": false,
+					"identifier": "a652fff1-05a1-4f90-aa27-fb45b85984ef"
+				},
+				{
+					"name": "discount@shipping-7138a6c7-8c72-4358-92fe-101f16aef375#e52b350f-c662-43f5-b3f1-2cd0e867240d",
+					"value": -222,
+					"rawValue": -2.22,
+					"isPercentual": false,
+					"identifier": "7138a6c7-8c72-4358-92fe-101f16aef375"
+				},
+				{
+					"name": "discount@shipping-e4ee5c5d-744c-4a73-98d5-1d32daebec64#8e612389-6467-4216-90f4-201792fcc36f",
+					"value": -515,
+					"rawValue": -5.15,
+					"isPercentual": false,
+					"identifier": "e4ee5c5d-744c-4a73-98d5-1d32daebec64"
+				}
+			],
+			"availability": "available",
+			"measurementUnit": "un",
+			"unitMultiplier": 1.0,
+			"manufacturerCode": null
+		},
+		{
+			"additionalInfo": {
+				"dimension": {
+					"cubicweight": 0.0,
+					"height": 1.0,
+					"length": 1.0,
+					"weight": 120.0,
+					"width": 1.0
+				},
+				"categoriesIds": "/17/23/",
+				"productClusterId": "136,226,235,284,348,447,459,466,468,507,510",
+				"commercialConditionId": "1",
+				"brandName": "SHOULDER",
+				"brandId": "1",
+				"offeringInfo": null,
+				"offeringType": null,
+				"offeringTypeId": null
+			},
+			"sellerSku": "2051154",
+			"priceTable": null,
+			"priceValidUntil": "2020-04-30T08:00:00Z",
+			"callCenterOperator": null,
+			"commission": 0,
+			"freightCommission": 0,
+			"taxCode": "62144000",
+			"costPrice": null,
+			"uniqueId": "4535A48B9CA14EAC92BB80BA76427BAB",
+			"id": "2051154",
+			"productId": "2008713",
+			"productRefId": "201153302",
+			"refId": "2011533020204UN",
+			"ean": "2011533020204UN",
+			"name": "LENCO VISCOSE LIMA-VERDE-UN",
+			"skuName": "LENCO VISCOSE LIMA-VERDE-UN",
+			"modalType": null,
+			"parentItemIndex": null,
+			"parentAssemblyBinding": null,
+			"assemblies": [],
+			"tax": 0,
+			"priceDefinitions": null,
+			"price": 9900,
+			"listPrice": 9900,
+			"manualPrice": null,
+			"sellingPrice": 6930,
+			"orderRewardStatus": null,
+			"rewardValue": 0,
+			"isGift": false,
+			"preSaleDate": null,
+			"productCategoryIds": "/17/23/",
+			"productCategories": {
+				"23": "Lenços",
+				"17": "Acessórios"
+			},
+			"quantity": 1,
+			"seller": "1",
+			"sellerChain": [
+				"1"
+			],
+			"imageUrl": "http://shoulder.vteximg.com.br/arquivos/ids/1689323-200-255/201153302_0204_010-LENCO-VISCOSE-LIMA.jpg?v=637172080303670000",
+			"detailUrl": "/lenco-viscose-lima-201153302/p",
+			"components": [],
+			"bundleItems": [],
+			"attachments": [],
+			"attachmentOfferings": [],
+			"offerings": [],
+			"priceTags": [
+				{
+					"name": "discount@price-a652fff1-05a1-4f90-aa27-fb45b85984ef#9676fd6f-5720-4dd2-952b-5b295382bd06",
+					"value": -2970,
+					"rawValue": -29.7,
+					"isPercentual": false,
+					"identifier": "a652fff1-05a1-4f90-aa27-fb45b85984ef"
+				},
+				{
+					"name": "discount@shipping-7138a6c7-8c72-4358-92fe-101f16aef375#e52b350f-c662-43f5-b3f1-2cd0e867240d",
+					"value": -444,
+					"rawValue": -4.44,
+					"isPercentual": false,
+					"identifier": "7138a6c7-8c72-4358-92fe-101f16aef375"
+				},
+				{
+					"name": "discount@shipping-e4ee5c5d-744c-4a73-98d5-1d32daebec64#8e612389-6467-4216-90f4-201792fcc36f",
+					"value": -1031,
+					"rawValue": -10.31,
+					"isPercentual": false,
+					"identifier": "e4ee5c5d-744c-4a73-98d5-1d32daebec64"
+				}
+			],
+			"availability": "available",
+			"measurementUnit": "un",
+			"unitMultiplier": 1.0,
+			"manufacturerCode": null
+		},
+		{
+			"additionalInfo": {
+				"dimension": {
+					"cubicweight": 0.0,
+					"height": 1.0,
+					"length": 1.0,
+					"weight": 120.0,
+					"width": 1.0
+				},
+				"categoriesIds": "/17/23/",
+				"productClusterId": "136,226,235,284,348,447,459,466,468,507,510",
+				"commercialConditionId": "1",
+				"brandName": "SHOULDER",
+				"brandId": "1",
+				"offeringInfo": null,
+				"offeringType": null,
+				"offeringTypeId": null
+			},
+			"sellerSku": "2051153",
+			"priceTable": null,
+			"priceValidUntil": "2020-04-30T08:00:00Z",
+			"callCenterOperator": null,
+			"commission": 0,
+			"freightCommission": 0,
+			"taxCode": "62144000",
+			"costPrice": null,
+			"uniqueId": "4DEE14580157495C96096DE4365D2C61",
+			"id": "2051153",
+			"productId": "2008708",
+			"productRefId": "201153301",
+			"refId": "2011533010111UN",
+			"ean": "2011533010111UN",
+			"name": "LENCO VISCOSE ROXO-ROXO-UN",
+			"skuName": "LENCO VISCOSE ROXO-ROXO-UN",
+			"modalType": null,
+			"parentItemIndex": null,
+			"parentAssemblyBinding": null,
+			"assemblies": [],
+			"tax": 0,
+			"priceDefinitions": null,
+			"price": 9900,
+			"listPrice": 9900,
+			"manualPrice": null,
+			"sellingPrice": 6930,
+			"orderRewardStatus": null,
+			"rewardValue": 0,
+			"isGift": false,
+			"preSaleDate": null,
+			"productCategoryIds": "/17/23/",
+			"productCategories": {
+				"23": "Lenços",
+				"17": "Acessórios"
+			},
+			"quantity": 1,
+			"seller": "1",
+			"sellerChain": [
+				"1"
+			],
+			"imageUrl": "http://shoulder.vteximg.com.br/arquivos/ids/1689288-200-255/201153301_0111_010-LENCO-VISCOSE-ROXO.jpg?v=637172079637070000",
+			"detailUrl": "/lenco-viscose-roxo-201153301/p",
+			"components": [],
+			"bundleItems": [],
+			"attachments": [],
+			"attachmentOfferings": [],
+			"offerings": [],
+			"priceTags": [
+				{
+					"name": "discount@price-a652fff1-05a1-4f90-aa27-fb45b85984ef#9676fd6f-5720-4dd2-952b-5b295382bd06",
+					"value": -2970,
+					"rawValue": -29.7,
+					"isPercentual": false,
+					"identifier": "a652fff1-05a1-4f90-aa27-fb45b85984ef"
+				},
+				{
+					"name": "discount@shipping-7138a6c7-8c72-4358-92fe-101f16aef375#e52b350f-c662-43f5-b3f1-2cd0e867240d",
+					"value": -444,
+					"rawValue": -4.44,
+					"isPercentual": false,
+					"identifier": "7138a6c7-8c72-4358-92fe-101f16aef375"
+				},
+				{
+					"name": "discount@shipping-e4ee5c5d-744c-4a73-98d5-1d32daebec64#8e612389-6467-4216-90f4-201792fcc36f",
+					"value": -1031,
+					"rawValue": -10.31,
+					"isPercentual": false,
+					"identifier": "e4ee5c5d-744c-4a73-98d5-1d32daebec64"
+				}
+			],
+			"availability": "available",
+			"measurementUnit": "un",
+			"unitMultiplier": 1.0,
+			"manufacturerCode": null
+		},
+		{
+			"additionalInfo": {
+				"dimension": {
+					"cubicweight": 0.0,
+					"height": 1.0,
+					"length": 1.0,
+					"weight": 140.0,
+					"width": 1.0
+				},
+				"categoriesIds": "/17/23/",
+				"productClusterId": "136,226,235,284,348,447,459,466,468,509,510,514",
+				"commercialConditionId": "1",
+				"brandName": "SHOULDER",
+				"brandId": "1",
+				"offeringInfo": null,
+				"offeringType": null,
+				"offeringTypeId": null
+			},
+			"sellerSku": "2050844",
+			"priceTable": null,
+			"priceValidUntil": "2020-04-30T08:00:00Z",
+			"callCenterOperator": null,
+			"commission": 0,
+			"freightCommission": 0,
+			"taxCode": "62144000",
+			"costPrice": null,
+			"uniqueId": "7D16DC5B48ED4110B2379D0A522AE58D",
+			"id": "2050844",
+			"productId": "2008670",
+			"productRefId": "201151100",
+			"refId": "2011511001023UN",
+			"ean": "2011511001023UN",
+			"name": "LENCO VISCOSE POA OFF WHITE-ESTAMPADO-UN",
+			"skuName": "LENCO VISCOSE POA OFF WHITE-ESTAMPADO-UN",
+			"modalType": null,
+			"parentItemIndex": null,
+			"parentAssemblyBinding": null,
+			"assemblies": [],
+			"tax": 0,
+			"priceDefinitions": null,
+			"price": 11900,
+			"listPrice": 11900,
+			"manualPrice": null,
+			"sellingPrice": 8330,
+			"orderRewardStatus": null,
+			"rewardValue": 0,
+			"isGift": false,
+			"preSaleDate": null,
+			"productCategoryIds": "/17/23/",
+			"productCategories": {
+				"23": "Lenços",
+				"17": "Acessórios"
+			},
+			"quantity": 1,
+			"seller": "1",
+			"sellerChain": [
+				"1"
+			],
+			"imageUrl": "http://shoulder.vteximg.com.br/arquivos/ids/1686904-200-255/201151100_1023_010-LENCO-VISCOSE-POA-OFF-WHITE.jpg?v=637171207873600000",
+			"detailUrl": "/lenco-viscose-poa-off-white-201151100/p",
+			"components": [],
+			"bundleItems": [],
+			"attachments": [],
+			"attachmentOfferings": [],
+			"offerings": [],
+			"priceTags": [
+				{
+					"name": "discount@price-a652fff1-05a1-4f90-aa27-fb45b85984ef#9676fd6f-5720-4dd2-952b-5b295382bd06",
+					"value": -3570,
+					"rawValue": -35.7,
+					"isPercentual": false,
+					"identifier": "a652fff1-05a1-4f90-aa27-fb45b85984ef"
+				},
+				{
+					"name": "discount@shipping-7138a6c7-8c72-4358-92fe-101f16aef375#e52b350f-c662-43f5-b3f1-2cd0e867240d",
+					"value": -1202,
+					"rawValue": -12.02,
+					"isPercentual": false,
+					"identifier": "7138a6c7-8c72-4358-92fe-101f16aef375"
+				},
+				{
+					"name": "discount@shipping-e4ee5c5d-744c-4a73-98d5-1d32daebec64#8e612389-6467-4216-90f4-201792fcc36f",
+					"value": -1202,
+					"rawValue": -12.02,
+					"isPercentual": false,
+					"identifier": "e4ee5c5d-744c-4a73-98d5-1d32daebec64"
+				}
+			],
+			"availability": "available",
+			"measurementUnit": "un",
+			"unitMultiplier": 1.0,
+			"manufacturerCode": null
+		},
+		{
+			"additionalInfo": {
+				"dimension": {
+					"cubicweight": 0.0,
+					"height": 1.0,
+					"length": 1.0,
+					"weight": 100.0,
+					"width": 1.0
+				},
+				"categoriesIds": "/17/23/",
+				"productClusterId": "136,226,235,284,348,447,459,466,468,507,510",
+				"commercialConditionId": "1",
+				"brandName": "SHOULDER",
+				"brandId": "1",
+				"offeringInfo": null,
+				"offeringType": null,
+				"offeringTypeId": null
+			},
+			"sellerSku": "2051428",
+			"priceTable": null,
+			"priceValidUntil": "2020-04-30T08:00:00Z",
+			"callCenterOperator": null,
+			"commission": 0,
+			"freightCommission": 0,
+			"taxCode": "62144000",
+			"costPrice": null,
+			"uniqueId": "639E3C5A397640AC808DB3801A678C07",
+			"id": "2051428",
+			"productId": "2008786",
+			"productRefId": "201151102",
+			"refId": "2011511020010UN",
+			"ean": "2011511020010UN",
+			"name": "LENCO VISCOSE AZUL-AZUL-UN",
+			"skuName": "LENCO VISCOSE AZUL-AZUL-UN",
+			"modalType": null,
+			"parentItemIndex": null,
+			"parentAssemblyBinding": null,
+			"assemblies": [],
+			"tax": 0,
+			"priceDefinitions": null,
+			"price": 9900,
+			"listPrice": 9900,
+			"manualPrice": null,
+			"sellingPrice": 6930,
+			"orderRewardStatus": null,
+			"rewardValue": 0,
+			"isGift": false,
+			"preSaleDate": null,
+			"productCategoryIds": "/17/23/",
+			"productCategories": {
+				"23": "Lenços",
+				"17": "Acessórios"
+			},
+			"quantity": 1,
+			"seller": "1",
+			"sellerChain": [
+				"1"
+			],
+			"imageUrl": "http://shoulder.vteximg.com.br/arquivos/ids/1695794-200-255/201151102_0010_010-LENCO-VISCOSE-AZUL.jpg?v=637191090715330000",
+			"detailUrl": "/lenco-viscose-azul-201151102/p",
+			"components": [],
+			"bundleItems": [],
+			"attachments": [],
+			"attachmentOfferings": [],
+			"offerings": [],
+			"priceTags": [
+				{
+					"name": "discount@price-a652fff1-05a1-4f90-aa27-fb45b85984ef#9676fd6f-5720-4dd2-952b-5b295382bd06",
+					"value": -2970,
+					"rawValue": -29.7,
+					"isPercentual": false,
+					"identifier": "a652fff1-05a1-4f90-aa27-fb45b85984ef"
+				},
+				{
+					"name": "discount@shipping-7138a6c7-8c72-4358-92fe-101f16aef375#e52b350f-c662-43f5-b3f1-2cd0e867240d",
+					"value": -370,
+					"rawValue": -3.7,
+					"isPercentual": false,
+					"identifier": "7138a6c7-8c72-4358-92fe-101f16aef375"
+				},
+				{
+					"name": "discount@shipping-e4ee5c5d-744c-4a73-98d5-1d32daebec64#8e612389-6467-4216-90f4-201792fcc36f",
+					"value": -858,
+					"rawValue": -8.58,
+					"isPercentual": false,
+					"identifier": "e4ee5c5d-744c-4a73-98d5-1d32daebec64"
+				}
+			],
+			"availability": "available",
+			"measurementUnit": "un",
+			"unitMultiplier": 1.0,
+			"manufacturerCode": null
+		},
+		{
+			"additionalInfo": {
+				"dimension": {
+					"cubicweight": 0.0,
+					"height": 1.0,
+					"length": 1.0,
+					"weight": 100.0,
+					"width": 1.0
+				},
+				"categoriesIds": "/17/23/",
+				"productClusterId": "136,226,235,284,348,447,459,466,468,507,510",
+				"commercialConditionId": "1",
+				"brandName": "SHOULDER",
+				"brandId": "1",
+				"offeringInfo": null,
+				"offeringType": null,
+				"offeringTypeId": null
+			},
+			"sellerSku": "2051428",
+			"priceTable": null,
+			"priceValidUntil": null,
+			"callCenterOperator": null,
+			"commission": 0,
+			"freightCommission": 0,
+			"taxCode": "62144000",
+			"costPrice": null,
+			"uniqueId": "2DAB5B2B170D40ABBBD486507062D507",
+			"id": "2051428",
+			"productId": "2008786",
+			"productRefId": "201151102",
+			"refId": "2011511020010UN",
+			"ean": "2011511020010UN",
+			"name": "LENCO VISCOSE AZUL-AZUL-UN",
+			"skuName": "LENCO VISCOSE AZUL-AZUL-UN",
+			"modalType": null,
+			"parentItemIndex": null,
+			"parentAssemblyBinding": null,
+			"assemblies": [],
+			"tax": 0,
+			"priceDefinitions": null,
+			"price": 9900,
+			"listPrice": 9900,
+			"manualPrice": null,
+			"sellingPrice": 0,
+			"orderRewardStatus": null,
+			"rewardValue": 0,
+			"isGift": true,
+			"preSaleDate": null,
+			"productCategoryIds": "/17/23/",
+			"productCategories": {
+				"23": "Lenços",
+				"17": "Acessórios"
+			},
+			"quantity": 1,
+			"seller": "1",
+			"sellerChain": [
+				"1"
+			],
+			"imageUrl": "http://shoulder.vteximg.com.br/arquivos/ids/1695794-200-255/201151102_0010_010-LENCO-VISCOSE-AZUL.jpg?v=637191090715330000",
+			"detailUrl": "/lenco-viscose-azul-201151102/p",
+			"components": [],
+			"bundleItems": [],
+			"attachments": [],
+			"attachmentOfferings": [],
+			"offerings": [],
+			"priceTags": [
+				{
+					"name": "DISCOUNT@GIFT",
+					"value": 100,
+					"rawValue": 1.0,
+					"isPercentual": true,
+					"identifier": "2bc27cdd-10c0-4707-bf68-f8d345df7ae6"
+				},
+				{
+					"name": "discount@shipping-7138a6c7-8c72-4358-92fe-101f16aef375#e52b350f-c662-43f5-b3f1-2cd0e867240d",
+					"value": -370,
+					"rawValue": -3.7,
+					"isPercentual": false,
+					"identifier": "7138a6c7-8c72-4358-92fe-101f16aef375"
+				},
+				{
+					"name": "discount@shipping-e4ee5c5d-744c-4a73-98d5-1d32daebec64#8e612389-6467-4216-90f4-201792fcc36f",
+					"value": -858,
+					"rawValue": -8.58,
+					"isPercentual": false,
+					"identifier": "e4ee5c5d-744c-4a73-98d5-1d32daebec64"
+				}
+			],
+			"availability": "available",
+			"measurementUnit": "un",
+			"unitMultiplier": 1.0,
+			"manufacturerCode": null
+		},
+		{
+			"additionalInfo": {
+				"dimension": {
+					"cubicweight": 0.0,
+					"height": 1.0,
+					"length": 1.0,
+					"weight": 120.0,
+					"width": 1.0
+				},
+				"categoriesIds": "/17/23/",
+				"productClusterId": "136,226,235,284,348,447,459,466,468,507,510",
+				"commercialConditionId": "1",
+				"brandName": "SHOULDER",
+				"brandId": "1",
+				"offeringInfo": null,
+				"offeringType": null,
+				"offeringTypeId": null
+			},
+			"sellerSku": "2049450",
+			"priceTable": null,
+			"priceValidUntil": "2020-04-30T08:00:00Z",
+			"callCenterOperator": null,
+			"commission": 0,
+			"freightCommission": 0,
+			"taxCode": "62144000",
+			"costPrice": null,
+			"uniqueId": "A09D47F75FC9459181AF43CF86BDA420",
+			"id": "2049450",
+			"productId": "2008417",
+			"productRefId": "201153300",
+			"refId": "2011533000008UN",
+			"ean": "2011533000008UN",
+			"name": "LENCO VISCOSE VERMELHO-VERMELHO-UN",
+			"skuName": "LENCO VISCOSE VERMELHO-VERMELHO-UN",
+			"modalType": null,
+			"parentItemIndex": null,
+			"parentAssemblyBinding": null,
+			"assemblies": [],
+			"tax": 0,
+			"priceDefinitions": null,
+			"price": 9900,
+			"listPrice": 9900,
+			"manualPrice": null,
+			"sellingPrice": 6930,
+			"orderRewardStatus": null,
+			"rewardValue": 0,
+			"isGift": false,
+			"preSaleDate": null,
+			"productCategoryIds": "/17/23/",
+			"productCategories": {
+				"23": "Lenços",
+				"17": "Acessórios"
+			},
+			"quantity": 1,
+			"seller": "1",
+			"sellerChain": [
+				"1"
+			],
+			"imageUrl": "http://shoulder.vteximg.com.br/arquivos/ids/1687468-200-255/201153300_0008_010-LENCO-VISCOSE-VERMELHO.jpg?v=637171290353730000",
+			"detailUrl": "/lenco-viscose-vermelho-201153300/p",
+			"components": [],
+			"bundleItems": [],
+			"attachments": [],
+			"attachmentOfferings": [],
+			"offerings": [],
+			"priceTags": [
+				{
+					"name": "discount@price-a652fff1-05a1-4f90-aa27-fb45b85984ef#9676fd6f-5720-4dd2-952b-5b295382bd06",
+					"value": -2970,
+					"rawValue": -29.7,
+					"isPercentual": false,
+					"identifier": "a652fff1-05a1-4f90-aa27-fb45b85984ef"
+				},
+				{
+					"name": "discount@shipping-7138a6c7-8c72-4358-92fe-101f16aef375#e52b350f-c662-43f5-b3f1-2cd0e867240d",
+					"value": -444,
+					"rawValue": -4.44,
+					"isPercentual": false,
+					"identifier": "7138a6c7-8c72-4358-92fe-101f16aef375"
+				},
+				{
+					"name": "discount@shipping-e4ee5c5d-744c-4a73-98d5-1d32daebec64#8e612389-6467-4216-90f4-201792fcc36f",
+					"value": -1031,
+					"rawValue": -10.31,
+					"isPercentual": false,
+					"identifier": "e4ee5c5d-744c-4a73-98d5-1d32daebec64"
+				}
+			],
+			"availability": "available",
+			"measurementUnit": "un",
+			"unitMultiplier": 1.0,
+			"manufacturerCode": null
+		}
+	],
+	"sellers": [
+		{
+			"subSellerId": "1",
+			"fulfillmentEndpoint": "http://fulfillment.vtexcommerce.com.br/api/fulfillment?an=shoulder",
+			"id": "1",
+			"name": "Shoulder eCommerce",
+			"logo": ""
+		}
+	],
+	"giftRegistryData": null,
+	"receiptData": null,
+	"contextData": null,
+	"marketPlaceOrderId": "",
+	"marketPlaceOrderGroup": null,
+	"marketplaceServicesEndpoint": null,
+	"orderFormId": "9fbb1457594b4013b6122411bd582cf9",
+	"sequence": "1759940",
+	"affiliateId": "",
+	"status": "",
+	"callCenterOperator": "",
+	"userProfileId": "b26c5d33-a2ac-418a-8972-b2f4a70b135b",
+	"hostName": "shoulder",
+	"creationVersion": null,
+	"creationEnvironment": null,
+	"lastChangeVersion": null,
+	"workflowInstanceId": null,
+	"marketplacePaymentValue": null,
+	"orderId": "1026601659302-01",
+	"orderGroup": "1026601659302",
+	"state": "invoiced",
+	"isCheckedIn": false,
+	"sellerOrderId": "00-1026601659302-01",
+	"storeId": null,
+	"checkedInPickupPointId": null,
+	"value": 62440,
+	"totals": [
+		{
+			"id": "Items",
+			"name": "Total dos Itens",
+			"value": 89200
+		},
+		{
+			"id": "Discounts",
+			"name": "Total dos Descontos",
+			"value": -26760
+		},
+		{
+			"id": "Shipping",
+			"name": "Total do Frete",
+			"value": 0,
+			"alternativeTotals": [
+				{
+					"id": "AlternativeShippingTotal",
+					"name": "Alternative Shipping Total",
+					"value": 8930
+				},
+				{
+					"id": "AlternativeShippingDiscount",
+					"name": "Alternative Shipping Discount",
+					"value": -8930
+				}
+			]
+		},
+		{
+			"id": "Tax",
+			"name": "Total da Taxa",
+			"value": 0
+		}
+	],
+	"clientProfileData": {
+		"email": "2d5e9e7975914bda8695638bdb1a3823@ct.vtex.com.br",
+		"firstName": "TANIA",
+		"lastName": "REGINA DIAS S PEREIRA",
+		"document": "19568797572",
+		"documentType": "cpf",
+		"phone": "71999897042",
+		"corporateName": null,
+		"tradeName": null,
+		"corporateDocument": null,
+		"stateInscription": null,
+		"corporatePhone": null,
+		"isCorporate": false,
+		"profileCompleteOnLoading": true,
+		"profileErrorOnLoading": false,
+		"customerClass": null
+	},
+	"ratesAndBenefitsData": {
+		"rateAndBenefitsIdentifiers": [
+			{
+				"id": "a652fff1-05a1-4f90-aa27-fb45b85984ef",
+				"name": "DESCONTO 30% CROSS",
+				"featured": false,
+				"description": null,
+				"matchedParameters": {
+					"slaIds": "econômica,expressa,normal",
+					"productCluster@CatalogSystem": "507,509,510,245|inclusive"
+				},
+				"additionalInfo": null
+			},
+			{
+				"id": "2bc27cdd-10c0-4707-bf68-f8d345df7ae6",
+				"name": "Compra Acima de R$600 e Ganhe um Brinde",
+				"featured": false,
+				"description": "Ganhe um brinde para compras acima de R$600,00 - Brindes:  201151102 ou 201152101 ou 201153302",
+				"matchedParameters": {
+					"slaIds": "econômica,normal,expressa",
+					"productCluster@CatalogSystem": "507,509,510,245|inclusive"
+				},
+				"additionalInfo": null
+			},
+			{
+				"id": "a0080acf-c2bb-4dfa-a449-a1e759baa534",
+				"name": "FRETE MÁXIMO",
+				"featured": false,
+				"description": "Promoção pra evitar cobranças de frete exorbitantes devido a inconsistências nas planilhas de frete.",
+				"matchedParameters": {
+					"slaIds": "normal,econômica,expressa"
+				},
+				"additionalInfo": null
+			},
+			{
+				"id": "7138a6c7-8c72-4358-92fe-101f16aef375",
+				"name": "Frete Grátis - Acima R$200",
+				"featured": false,
+				"description": null,
+				"matchedParameters": {
+					"productCluster@CatalogSystem": "510|inclusive"
+				},
+				"additionalInfo": null
+			},
+			{
+				"id": "e4ee5c5d-744c-4a73-98d5-1d32daebec64",
+				"name": "FRETE GRÁTIS - CROSS SALE",
+				"featured": false,
+				"description": "FRETE PARA CÓDIGO VENDEDORA",
+				"matchedParameters": {
+					"slaIds": "econômica,expressa,normal"
+				},
+				"additionalInfo": null
+			}
+		],
+		"teaser": []
+	},
+	"shippingData": {
+		"address": {
+			"addressType": "residential",
+			"receiverName": "TANIA REGINA DIAS S PEREIRA",
+			"addressId": "1463046240",
+			"isDisposable": false,
+			"postalCode": "41760-020",
+			"city": "SALVADOR",
+			"state": "BA",
+			"country": "BRA",
+			"street": "RUA DR RAIMUNDO MAGALDI",
+			"number": "56",
+			"neighborhood": "COSTA AZUL",
+			"complement": "APTº 804 EDF. ANA VI",
+			"reference": null,
+			"geoCoordinates": [
+				-38.446762084960938,
+				-12.993664741516113
+			]
+		},
+		"logisticsInfo": [
+			{
+				"itemIndex": 0,
+				"selectedSla": "Normal",
+				"selectedDeliveryChannel": "delivery",
+				"addressId": "1463046240",
+				"slas": [
+					{
+						"id": "Econômica",
+						"deliveryChannel": "delivery",
+						"name": "Econômica",
+						"deliveryIds": [
+							{
+								"courierId": "155851c",
+								"warehouseId": "CDCARM",
+								"dockId": "CDCARM",
+								"courierName": "Correios PAC ENC 2.7 CDCG 06 a 99 (Econômica) v20200316",
+								"quantity": 1,
+								"totalListPrice": 0
+							}
+						],
+						"shippingEstimate": "9bd",
+						"shippingEstimateDate": null,
+						"lockTTL": "10d",
+						"availableDeliveryWindows": [],
+						"deliveryWindow": null,
+						"price": 0,
+						"listPrice": 1202,
+						"tax": 0,
+						"pickupStoreInfo": {
+							"isPickupStore": false,
+							"friendlyName": null,
+							"address": null,
+							"additionalInfo": null,
+							"dockId": null
+						},
+						"pickupPointId": null,
+						"pickupDistance": 0.0,
+						"polygonName": null,
+						"transitTime": "3bd"
+					},
+					{
+						"id": "Normal",
+						"deliveryChannel": "delivery",
+						"name": "Normal",
+						"deliveryIds": [
+							{
+								"courierId": "199cecb",
+								"warehouseId": "CDCARM",
+								"dockId": "CDCARM",
+								"courierName": "Correios Sedex ENC 2.7 CDCG 01 a 99 (Normal) v20200316",
+								"quantity": 1,
+								"totalListPrice": 0
+							}
+						],
+						"shippingEstimate": "9bd",
+						"shippingEstimateDate": "2020-05-04T18:00:00Z",
+						"lockTTL": "10d",
+						"availableDeliveryWindows": [],
+						"deliveryWindow": null,
+						"price": 0,
+						"listPrice": 1202,
+						"tax": 0,
+						"pickupStoreInfo": {
+							"isPickupStore": false,
+							"friendlyName": null,
+							"address": null,
+							"additionalInfo": null,
+							"dockId": null
+						},
+						"pickupPointId": null,
+						"pickupDistance": 0.0,
+						"polygonName": null,
+						"transitTime": "3bd"
+					}
+				],
+				"shipsTo": [
+					"BRA"
+				],
+				"itemId": "2053271",
+				"deliveryChannels": [
+					{
+						"id": "delivery",
+						"stockBalance": 0
+					}
+				]
+			},
+			{
+				"itemIndex": 1,
+				"selectedSla": "Normal",
+				"selectedDeliveryChannel": "delivery",
+				"addressId": "1463046240",
+				"slas": [
+					{
+						"id": "Normal",
+						"deliveryChannel": "delivery",
+						"name": "Normal",
+						"deliveryIds": [
+							{
+								"courierId": "199cecb",
+								"warehouseId": "CDCARM",
+								"dockId": "CDCARM",
+								"courierName": "Correios Sedex ENC 2.7 CDCG 01 a 99 (Normal) v20200316",
+								"quantity": 1,
+								"totalListPrice": 0
+							}
+						],
+						"shippingEstimate": "9bd",
+						"shippingEstimateDate": "2020-05-04T18:00:00Z",
+						"lockTTL": "10d",
+						"availableDeliveryWindows": [],
+						"deliveryWindow": null,
+						"price": 0,
+						"listPrice": 1202,
+						"tax": 0,
+						"pickupStoreInfo": {
+							"isPickupStore": false,
+							"friendlyName": null,
+							"address": null,
+							"additionalInfo": null,
+							"dockId": null
+						},
+						"pickupPointId": null,
+						"pickupDistance": 0.0,
+						"polygonName": null,
+						"transitTime": "3bd"
+					},
+					{
+						"id": "Expressa",
+						"deliveryChannel": "delivery",
+						"name": "Expressa",
+						"deliveryIds": [
+							{
+								"courierId": "Sedex",
+								"warehouseId": "1_1",
+								"dockId": "1",
+								"courierName": "Correios Sedex ENC 2.7 LJSA 40 a 49 (Expressa) v20200312",
+								"quantity": 1,
+								"totalListPrice": 0
+							}
+						],
+						"shippingEstimate": "5bd",
+						"shippingEstimateDate": null,
+						"lockTTL": "10d",
+						"availableDeliveryWindows": [],
+						"deliveryWindow": null,
+						"price": 0,
+						"listPrice": 518,
+						"tax": 0,
+						"pickupStoreInfo": {
+							"isPickupStore": false,
+							"friendlyName": null,
+							"address": null,
+							"additionalInfo": null,
+							"dockId": null
+						},
+						"pickupPointId": null,
+						"pickupDistance": null,
+						"polygonName": null,
+						"transitTime": "1bd"
+					},
+					{
+						"id": "Econômica",
+						"deliveryChannel": "delivery",
+						"name": "Econômica",
+						"deliveryIds": [
+							{
+								"courierId": "Pac",
+								"warehouseId": "1_1",
+								"dockId": "1",
+								"courierName": "Correios PAC ENC 2.7 LJSP 06 a 99 (Econômica) v20200309",
+								"quantity": 1,
+								"totalListPrice": 0
+							}
+						],
+						"shippingEstimate": "10bd",
+						"shippingEstimateDate": null,
+						"lockTTL": "10d",
+						"availableDeliveryWindows": [],
+						"deliveryWindow": null,
+						"price": 0,
+						"listPrice": 806,
+						"tax": 0,
+						"pickupStoreInfo": {
+							"isPickupStore": false,
+							"friendlyName": null,
+							"address": null,
+							"additionalInfo": null,
+							"dockId": null
+						},
+						"pickupPointId": null,
+						"pickupDistance": null,
+						"polygonName": null,
+						"transitTime": "6bd"
+					}
+				],
+				"shipsTo": [
+					"BRA"
+				],
+				"itemId": "2052895",
+				"deliveryChannels": [
+					{
+						"id": "delivery",
+						"stockBalance": 0
+					}
+				]
+			},
+			{
+				"itemIndex": 2,
+				"selectedSla": "Normal",
+				"selectedDeliveryChannel": "delivery",
+				"addressId": "1463046240",
+				"slas": [
+					{
+						"id": "Normal",
+						"deliveryChannel": "delivery",
+						"name": "Normal",
+						"deliveryIds": [
+							{
+								"courierId": "199cecb",
+								"warehouseId": "CDCARM",
+								"dockId": "CDCARM",
+								"courierName": "Correios Sedex ENC 2.7 CDCG 01 a 99 (Normal) v20200316",
+								"quantity": 1,
+								"totalListPrice": 0
+							}
+						],
+						"shippingEstimate": "9bd",
+						"shippingEstimateDate": "2020-05-04T18:00:00Z",
+						"lockTTL": "10d",
+						"availableDeliveryWindows": [],
+						"deliveryWindow": null,
+						"price": 0,
+						"listPrice": 515,
+						"tax": 0,
+						"pickupStoreInfo": {
+							"isPickupStore": false,
+							"friendlyName": null,
+							"address": null,
+							"additionalInfo": null,
+							"dockId": null
+						},
+						"pickupPointId": null,
+						"pickupDistance": 0.0,
+						"polygonName": null,
+						"transitTime": "3bd"
+					},
+					{
+						"id": "Expressa",
+						"deliveryChannel": "delivery",
+						"name": "Expressa",
+						"deliveryIds": [
+							{
+								"courierId": "Sedex",
+								"warehouseId": "1_1",
+								"dockId": "1",
+								"courierName": "Correios Sedex ENC 2.7 LJSA 40 a 49 (Expressa) v20200312",
+								"quantity": 1,
+								"totalListPrice": 0
+							}
+						],
+						"shippingEstimate": "5bd",
+						"shippingEstimateDate": null,
+						"lockTTL": "10d",
+						"availableDeliveryWindows": [],
+						"deliveryWindow": null,
+						"price": 0,
+						"listPrice": 222,
+						"tax": 0,
+						"pickupStoreInfo": {
+							"isPickupStore": false,
+							"friendlyName": null,
+							"address": null,
+							"additionalInfo": null,
+							"dockId": null
+						},
+						"pickupPointId": null,
+						"pickupDistance": null,
+						"polygonName": null,
+						"transitTime": "1bd"
+					},
+					{
+						"id": "Econômica",
+						"deliveryChannel": "delivery",
+						"name": "Econômica",
+						"deliveryIds": [
+							{
+								"courierId": "Pac",
+								"warehouseId": "1_1",
+								"dockId": "1",
+								"courierName": "Correios PAC ENC 2.7 LJSP 06 a 99 (Econômica) v20200309",
+								"quantity": 1,
+								"totalListPrice": 0
+							}
+						],
+						"shippingEstimate": "10bd",
+						"shippingEstimateDate": null,
+						"lockTTL": "10d",
+						"availableDeliveryWindows": [],
+						"deliveryWindow": null,
+						"price": 0,
+						"listPrice": 345,
+						"tax": 0,
+						"pickupStoreInfo": {
+							"isPickupStore": false,
+							"friendlyName": null,
+							"address": null,
+							"additionalInfo": null,
+							"dockId": null
+						},
+						"pickupPointId": null,
+						"pickupDistance": null,
+						"polygonName": null,
+						"transitTime": "6bd"
+					}
+				],
+				"shipsTo": [
+					"BRA"
+				],
+				"itemId": "2051591",
+				"deliveryChannels": [
+					{
+						"id": "delivery",
+						"stockBalance": 0
+					}
+				]
+			},
+			{
+				"itemIndex": 3,
+				"selectedSla": "Normal",
+				"selectedDeliveryChannel": "delivery",
+				"addressId": "1463046240",
+				"slas": [
+					{
+						"id": "Normal",
+						"deliveryChannel": "delivery",
+						"name": "Normal",
+						"deliveryIds": [
+							{
+								"courierId": "199cecb",
+								"warehouseId": "CDCARM",
+								"dockId": "CDCARM",
+								"courierName": "Correios Sedex ENC 2.7 CDCG 01 a 99 (Normal) v20200316",
+								"quantity": 1,
+								"totalListPrice": 0
+							}
+						],
+						"shippingEstimate": "9bd",
+						"shippingEstimateDate": "2020-05-04T18:00:00Z",
+						"lockTTL": "10d",
+						"availableDeliveryWindows": [],
+						"deliveryWindow": null,
+						"price": 0,
+						"listPrice": 1031,
+						"tax": 0,
+						"pickupStoreInfo": {
+							"isPickupStore": false,
+							"friendlyName": null,
+							"address": null,
+							"additionalInfo": null,
+							"dockId": null
+						},
+						"pickupPointId": null,
+						"pickupDistance": 0.0,
+						"polygonName": null,
+						"transitTime": "3bd"
+					},
+					{
+						"id": "Expressa",
+						"deliveryChannel": "delivery",
+						"name": "Expressa",
+						"deliveryIds": [
+							{
+								"courierId": "Sedex",
+								"warehouseId": "1_1",
+								"dockId": "1",
+								"courierName": "Correios Sedex ENC 2.7 LJSA 40 a 49 (Expressa) v20200312",
+								"quantity": 1,
+								"totalListPrice": 0
+							}
+						],
+						"shippingEstimate": "5bd",
+						"shippingEstimateDate": null,
+						"lockTTL": "10d",
+						"availableDeliveryWindows": [],
+						"deliveryWindow": null,
+						"price": 0,
+						"listPrice": 444,
+						"tax": 0,
+						"pickupStoreInfo": {
+							"isPickupStore": false,
+							"friendlyName": null,
+							"address": null,
+							"additionalInfo": null,
+							"dockId": null
+						},
+						"pickupPointId": null,
+						"pickupDistance": null,
+						"polygonName": null,
+						"transitTime": "1bd"
+					},
+					{
+						"id": "Econômica",
+						"deliveryChannel": "delivery",
+						"name": "Econômica",
+						"deliveryIds": [
+							{
+								"courierId": "Pac",
+								"warehouseId": "1_1",
+								"dockId": "1",
+								"courierName": "Correios PAC ENC 2.7 LJSP 06 a 99 (Econômica) v20200309",
+								"quantity": 1,
+								"totalListPrice": 0
+							}
+						],
+						"shippingEstimate": "10bd",
+						"shippingEstimateDate": null,
+						"lockTTL": "10d",
+						"availableDeliveryWindows": [],
+						"deliveryWindow": null,
+						"price": 0,
+						"listPrice": 690,
+						"tax": 0,
+						"pickupStoreInfo": {
+							"isPickupStore": false,
+							"friendlyName": null,
+							"address": null,
+							"additionalInfo": null,
+							"dockId": null
+						},
+						"pickupPointId": null,
+						"pickupDistance": null,
+						"polygonName": null,
+						"transitTime": "6bd"
+					}
+				],
+				"shipsTo": [
+					"BRA"
+				],
+				"itemId": "2051154",
+				"deliveryChannels": [
+					{
+						"id": "delivery",
+						"stockBalance": 0
+					}
+				]
+			},
+			{
+				"itemIndex": 4,
+				"selectedSla": "Normal",
+				"selectedDeliveryChannel": "delivery",
+				"addressId": "1463046240",
+				"slas": [
+					{
+						"id": "Normal",
+						"deliveryChannel": "delivery",
+						"name": "Normal",
+						"deliveryIds": [
+							{
+								"courierId": "199cecb",
+								"warehouseId": "CDCARM",
+								"dockId": "CDCARM",
+								"courierName": "Correios Sedex ENC 2.7 CDCG 01 a 99 (Normal) v20200316",
+								"quantity": 1,
+								"totalListPrice": 0
+							}
+						],
+						"shippingEstimate": "9bd",
+						"shippingEstimateDate": "2020-05-04T18:00:00Z",
+						"lockTTL": "10d",
+						"availableDeliveryWindows": [],
+						"deliveryWindow": null,
+						"price": 0,
+						"listPrice": 1031,
+						"tax": 0,
+						"pickupStoreInfo": {
+							"isPickupStore": false,
+							"friendlyName": null,
+							"address": null,
+							"additionalInfo": null,
+							"dockId": null
+						},
+						"pickupPointId": null,
+						"pickupDistance": 0.0,
+						"polygonName": null,
+						"transitTime": "3bd"
+					},
+					{
+						"id": "Expressa",
+						"deliveryChannel": "delivery",
+						"name": "Expressa",
+						"deliveryIds": [
+							{
+								"courierId": "Sedex",
+								"warehouseId": "1_1",
+								"dockId": "1",
+								"courierName": "Correios Sedex ENC 2.7 LJSA 40 a 49 (Expressa) v20200312",
+								"quantity": 1,
+								"totalListPrice": 0
+							}
+						],
+						"shippingEstimate": "5bd",
+						"shippingEstimateDate": null,
+						"lockTTL": "10d",
+						"availableDeliveryWindows": [],
+						"deliveryWindow": null,
+						"price": 0,
+						"listPrice": 444,
+						"tax": 0,
+						"pickupStoreInfo": {
+							"isPickupStore": false,
+							"friendlyName": null,
+							"address": null,
+							"additionalInfo": null,
+							"dockId": null
+						},
+						"pickupPointId": null,
+						"pickupDistance": null,
+						"polygonName": null,
+						"transitTime": "1bd"
+					},
+					{
+						"id": "Econômica",
+						"deliveryChannel": "delivery",
+						"name": "Econômica",
+						"deliveryIds": [
+							{
+								"courierId": "Pac",
+								"warehouseId": "1_1",
+								"dockId": "1",
+								"courierName": "Correios PAC ENC 2.7 LJSP 06 a 99 (Econômica) v20200309",
+								"quantity": 1,
+								"totalListPrice": 0
+							}
+						],
+						"shippingEstimate": "10bd",
+						"shippingEstimateDate": null,
+						"lockTTL": "10d",
+						"availableDeliveryWindows": [],
+						"deliveryWindow": null,
+						"price": 0,
+						"listPrice": 690,
+						"tax": 0,
+						"pickupStoreInfo": {
+							"isPickupStore": false,
+							"friendlyName": null,
+							"address": null,
+							"additionalInfo": null,
+							"dockId": null
+						},
+						"pickupPointId": null,
+						"pickupDistance": null,
+						"polygonName": null,
+						"transitTime": "6bd"
+					}
+				],
+				"shipsTo": [
+					"BRA"
+				],
+				"itemId": "2051153",
+				"deliveryChannels": [
+					{
+						"id": "delivery",
+						"stockBalance": 0
+					}
+				]
+			},
+			{
+				"itemIndex": 5,
+				"selectedSla": "Normal",
+				"selectedDeliveryChannel": "delivery",
+				"addressId": "1463046240",
+				"slas": [
+					{
+						"id": "Econômica",
+						"deliveryChannel": "delivery",
+						"name": "Econômica",
+						"deliveryIds": [
+							{
+								"courierId": "155851c",
+								"warehouseId": "CDCARM",
+								"dockId": "CDCARM",
+								"courierName": "Correios PAC ENC 2.7 CDCG 06 a 99 (Econômica) v20200316",
+								"quantity": 1,
+								"totalListPrice": 0
+							}
+						],
+						"shippingEstimate": "9bd",
+						"shippingEstimateDate": null,
+						"lockTTL": "10d",
+						"availableDeliveryWindows": [],
+						"deliveryWindow": null,
+						"price": 0,
+						"listPrice": 1202,
+						"tax": 0,
+						"pickupStoreInfo": {
+							"isPickupStore": false,
+							"friendlyName": null,
+							"address": null,
+							"additionalInfo": null,
+							"dockId": null
+						},
+						"pickupPointId": null,
+						"pickupDistance": 0.0,
+						"polygonName": null,
+						"transitTime": "3bd"
+					},
+					{
+						"id": "Normal",
+						"deliveryChannel": "delivery",
+						"name": "Normal",
+						"deliveryIds": [
+							{
+								"courierId": "199cecb",
+								"warehouseId": "CDCARM",
+								"dockId": "CDCARM",
+								"courierName": "Correios Sedex ENC 2.7 CDCG 01 a 99 (Normal) v20200316",
+								"quantity": 1,
+								"totalListPrice": 0
+							}
+						],
+						"shippingEstimate": "9bd",
+						"shippingEstimateDate": "2020-05-04T18:00:00Z",
+						"lockTTL": "10d",
+						"availableDeliveryWindows": [],
+						"deliveryWindow": null,
+						"price": 0,
+						"listPrice": 1202,
+						"tax": 0,
+						"pickupStoreInfo": {
+							"isPickupStore": false,
+							"friendlyName": null,
+							"address": null,
+							"additionalInfo": null,
+							"dockId": null
+						},
+						"pickupPointId": null,
+						"pickupDistance": 0.0,
+						"polygonName": null,
+						"transitTime": "3bd"
+					}
+				],
+				"shipsTo": [
+					"BRA"
+				],
+				"itemId": "2050844",
+				"deliveryChannels": [
+					{
+						"id": "delivery",
+						"stockBalance": 0
+					}
+				]
+			},
+			{
+				"itemIndex": 6,
+				"selectedSla": "Normal",
+				"selectedDeliveryChannel": "delivery",
+				"addressId": "1463046240",
+				"slas": [
+					{
+						"id": "Normal",
+						"deliveryChannel": "delivery",
+						"name": "Normal",
+						"deliveryIds": [
+							{
+								"courierId": "199cecb",
+								"warehouseId": "CDCARM",
+								"dockId": "CDCARM",
+								"courierName": "Correios Sedex ENC 2.7 CDCG 01 a 99 (Normal) v20200316",
+								"quantity": 1,
+								"totalListPrice": 0
+							}
+						],
+						"shippingEstimate": "9bd",
+						"shippingEstimateDate": "2020-05-04T18:00:00Z",
+						"lockTTL": "10d",
+						"availableDeliveryWindows": [],
+						"deliveryWindow": null,
+						"price": 0,
+						"listPrice": 858,
+						"tax": 0,
+						"pickupStoreInfo": {
+							"isPickupStore": false,
+							"friendlyName": null,
+							"address": null,
+							"additionalInfo": null,
+							"dockId": null
+						},
+						"pickupPointId": null,
+						"pickupDistance": 0.0,
+						"polygonName": null,
+						"transitTime": "3bd"
+					},
+					{
+						"id": "Expressa",
+						"deliveryChannel": "delivery",
+						"name": "Expressa",
+						"deliveryIds": [
+							{
+								"courierId": "Sedex",
+								"warehouseId": "1_1",
+								"dockId": "1",
+								"courierName": "Correios Sedex ENC 2.7 LJSA 40 a 49 (Expressa) v20200312",
+								"quantity": 1,
+								"totalListPrice": 0
+							}
+						],
+						"shippingEstimate": "5bd",
+						"shippingEstimateDate": null,
+						"lockTTL": "10d",
+						"availableDeliveryWindows": [],
+						"deliveryWindow": null,
+						"price": 0,
+						"listPrice": 370,
+						"tax": 0,
+						"pickupStoreInfo": {
+							"isPickupStore": false,
+							"friendlyName": null,
+							"address": null,
+							"additionalInfo": null,
+							"dockId": null
+						},
+						"pickupPointId": null,
+						"pickupDistance": null,
+						"polygonName": null,
+						"transitTime": "1bd"
+					},
+					{
+						"id": "Econômica",
+						"deliveryChannel": "delivery",
+						"name": "Econômica",
+						"deliveryIds": [
+							{
+								"courierId": "Pac",
+								"warehouseId": "1_1",
+								"dockId": "1",
+								"courierName": "Correios PAC ENC 2.7 LJSP 06 a 99 (Econômica) v20200309",
+								"quantity": 1,
+								"totalListPrice": 0
+							}
+						],
+						"shippingEstimate": "10bd",
+						"shippingEstimateDate": null,
+						"lockTTL": "10d",
+						"availableDeliveryWindows": [],
+						"deliveryWindow": null,
+						"price": 0,
+						"listPrice": 575,
+						"tax": 0,
+						"pickupStoreInfo": {
+							"isPickupStore": false,
+							"friendlyName": null,
+							"address": null,
+							"additionalInfo": null,
+							"dockId": null
+						},
+						"pickupPointId": null,
+						"pickupDistance": null,
+						"polygonName": null,
+						"transitTime": "6bd"
+					}
+				],
+				"shipsTo": [
+					"BRA"
+				],
+				"itemId": "2051428",
+				"deliveryChannels": [
+					{
+						"id": "delivery",
+						"stockBalance": 0
+					}
+				]
+			},
+			{
+				"itemIndex": 7,
+				"selectedSla": "Normal",
+				"selectedDeliveryChannel": "delivery",
+				"addressId": "1463046240",
+				"slas": [
+					{
+						"id": "Normal",
+						"deliveryChannel": "delivery",
+						"name": "Normal",
+						"deliveryIds": [
+							{
+								"courierId": "199cecb",
+								"warehouseId": "CDCARM",
+								"dockId": "CDCARM",
+								"courierName": "Correios Sedex ENC 2.7 CDCG 01 a 99 (Normal) v20200316",
+								"quantity": 1,
+								"totalListPrice": 0
+							}
+						],
+						"shippingEstimate": "9bd",
+						"shippingEstimateDate": "2020-05-04T18:00:00Z",
+						"lockTTL": "10d",
+						"availableDeliveryWindows": [],
+						"deliveryWindow": null,
+						"price": 0,
+						"listPrice": 858,
+						"tax": 0,
+						"pickupStoreInfo": {
+							"isPickupStore": false,
+							"friendlyName": null,
+							"address": null,
+							"additionalInfo": null,
+							"dockId": null
+						},
+						"pickupPointId": null,
+						"pickupDistance": 0.0,
+						"polygonName": null,
+						"transitTime": "3bd"
+					},
+					{
+						"id": "Expressa",
+						"deliveryChannel": "delivery",
+						"name": "Expressa",
+						"deliveryIds": [
+							{
+								"courierId": "Sedex",
+								"warehouseId": "1_1",
+								"dockId": "1",
+								"courierName": "Correios Sedex ENC 2.7 LJSA 40 a 49 (Expressa) v20200312",
+								"quantity": 1,
+								"totalListPrice": 0
+							}
+						],
+						"shippingEstimate": "5bd",
+						"shippingEstimateDate": null,
+						"lockTTL": "10d",
+						"availableDeliveryWindows": [],
+						"deliveryWindow": null,
+						"price": 0,
+						"listPrice": 370,
+						"tax": 0,
+						"pickupStoreInfo": {
+							"isPickupStore": false,
+							"friendlyName": null,
+							"address": null,
+							"additionalInfo": null,
+							"dockId": null
+						},
+						"pickupPointId": null,
+						"pickupDistance": null,
+						"polygonName": null,
+						"transitTime": "1bd"
+					},
+					{
+						"id": "Econômica",
+						"deliveryChannel": "delivery",
+						"name": "Econômica",
+						"deliveryIds": [
+							{
+								"courierId": "Pac",
+								"warehouseId": "1_1",
+								"dockId": "1",
+								"courierName": "Correios PAC ENC 2.7 LJSP 06 a 99 (Econômica) v20200309",
+								"quantity": 1,
+								"totalListPrice": 0
+							}
+						],
+						"shippingEstimate": "10bd",
+						"shippingEstimateDate": null,
+						"lockTTL": "10d",
+						"availableDeliveryWindows": [],
+						"deliveryWindow": null,
+						"price": 0,
+						"listPrice": 574,
+						"tax": 0,
+						"pickupStoreInfo": {
+							"isPickupStore": false,
+							"friendlyName": null,
+							"address": null,
+							"additionalInfo": null,
+							"dockId": null
+						},
+						"pickupPointId": null,
+						"pickupDistance": null,
+						"polygonName": null,
+						"transitTime": "6bd"
+					}
+				],
+				"shipsTo": [
+					"BRA"
+				],
+				"itemId": "2051428",
+				"deliveryChannels": [
+					{
+						"id": "delivery",
+						"stockBalance": 0
+					}
+				]
+			},
+			{
+				"itemIndex": 8,
+				"selectedSla": "Normal",
+				"selectedDeliveryChannel": "delivery",
+				"addressId": "1463046240",
+				"slas": [
+					{
+						"id": "Normal",
+						"deliveryChannel": "delivery",
+						"name": "Normal",
+						"deliveryIds": [
+							{
+								"courierId": "199cecb",
+								"warehouseId": "CDCARM",
+								"dockId": "CDCARM",
+								"courierName": "Correios Sedex ENC 2.7 CDCG 01 a 99 (Normal) v20200316",
+								"quantity": 1,
+								"totalListPrice": 0
+							}
+						],
+						"shippingEstimate": "9bd",
+						"shippingEstimateDate": "2020-05-04T18:00:00Z",
+						"lockTTL": "10d",
+						"availableDeliveryWindows": [],
+						"deliveryWindow": null,
+						"price": 0,
+						"listPrice": 1031,
+						"tax": 0,
+						"pickupStoreInfo": {
+							"isPickupStore": false,
+							"friendlyName": null,
+							"address": null,
+							"additionalInfo": null,
+							"dockId": null
+						},
+						"pickupPointId": null,
+						"pickupDistance": 0.0,
+						"polygonName": null,
+						"transitTime": "3bd"
+					},
+					{
+						"id": "Expressa",
+						"deliveryChannel": "delivery",
+						"name": "Expressa",
+						"deliveryIds": [
+							{
+								"courierId": "Sedex",
+								"warehouseId": "1_1",
+								"dockId": "1",
+								"courierName": "Correios Sedex ENC 2.7 LJSA 40 a 49 (Expressa) v20200312",
+								"quantity": 1,
+								"totalListPrice": 0
+							}
+						],
+						"shippingEstimate": "5bd",
+						"shippingEstimateDate": null,
+						"lockTTL": "10d",
+						"availableDeliveryWindows": [],
+						"deliveryWindow": null,
+						"price": 0,
+						"listPrice": 444,
+						"tax": 0,
+						"pickupStoreInfo": {
+							"isPickupStore": false,
+							"friendlyName": null,
+							"address": null,
+							"additionalInfo": null,
+							"dockId": null
+						},
+						"pickupPointId": null,
+						"pickupDistance": null,
+						"polygonName": null,
+						"transitTime": "1bd"
+					},
+					{
+						"id": "Econômica",
+						"deliveryChannel": "delivery",
+						"name": "Econômica",
+						"deliveryIds": [
+							{
+								"courierId": "Pac",
+								"warehouseId": "1_1",
+								"dockId": "1",
+								"courierName": "Correios PAC ENC 2.7 LJSP 06 a 99 (Econômica) v20200309",
+								"quantity": 1,
+								"totalListPrice": 0
+							}
+						],
+						"shippingEstimate": "10bd",
+						"shippingEstimateDate": null,
+						"lockTTL": "10d",
+						"availableDeliveryWindows": [],
+						"deliveryWindow": null,
+						"price": 0,
+						"listPrice": 690,
+						"tax": 0,
+						"pickupStoreInfo": {
+							"isPickupStore": false,
+							"friendlyName": null,
+							"address": null,
+							"additionalInfo": null,
+							"dockId": null
+						},
+						"pickupPointId": null,
+						"pickupDistance": null,
+						"polygonName": null,
+						"transitTime": "6bd"
+					}
+				],
+				"shipsTo": [
+					"BRA"
+				],
+				"itemId": "2049450",
+				"deliveryChannels": [
+					{
+						"id": "delivery",
+						"stockBalance": 0
+					}
+				]
+			}
+		],
+		"selectedAddresses": [
+			{
+				"addressType": "residential",
+				"receiverName": "TANIA REGINA DIAS S PEREIRA",
+				"addressId": "1463046240",
+				"isDisposable": false,
+				"postalCode": "41760-020",
+				"city": "SALVADOR",
+				"state": "BA",
+				"country": "BRA",
+				"street": "RUA DR RAIMUNDO MAGALDI",
+				"number": "56",
+				"neighborhood": "COSTA AZUL",
+				"complement": "APTº 804 EDF. ANA VI",
+				"reference": null,
+				"geoCoordinates": [
+					-38.446762084960938,
+					-12.993664741516113
+				]
+			}
+		],
+		"availableAddresses": [
+			{
+				"addressType": "residential",
+				"receiverName": "TANIA REGINA DIAS S PEREIRA",
+				"addressId": "1463046240",
+				"isDisposable": false,
+				"postalCode": "41760-020",
+				"city": "SALVADOR",
+				"state": "BA",
+				"country": "BRA",
+				"street": "RUA DR RAIMUNDO MAGALDI",
+				"number": "56",
+				"neighborhood": "COSTA AZUL",
+				"complement": "APTº 804 EDF. ANA VI",
+				"reference": null,
+				"geoCoordinates": [
+					-38.446762084960938,
+					-12.993664741516113
+				]
+			}
+		],
+		"pickupPoints": []
+	},
+	"paymentData": {
+		"giftCards": [],
+		"transactions": [
+			{
+				"isActive": true,
+				"transactionId": "52ACB784F17D4722ABE4EFBDCD68223A",
+				"merchantName": "SHOULDER",
+				"payments": [
+					{
+						"id": "3537D5F3FF44488196C4F3C053DC8B43",
+						"paymentSystem": "2",
+						"paymentSystemName": "Visa",
+						"value": 62440,
+						"installments": 1,
+						"connectorResponses": {
+							"tid": "1118776930037POOP6CB",
+							"returnCode": "00",
+							"message": "Transacao autorizada",
+							"authId": "064695",
+							"nsu": "166293"
+						},
+						"referenceValue": 62440,
+						"cardHolder": null,
+						"cardNumber": null,
+						"firstDigits": "444456",
+						"lastDigits": "3787",
+						"cvv2": null,
+						"expireMonth": null,
+						"expireYear": null,
+						"url": null,
+						"koinUrl": null,
+						"tid": "1118776930037POOP6CB",
+						"redemptionCode": null,
+						"giftCardId": null,
+						"giftCardProvider": null,
+						"giftCardAsDiscount": null,
+						"group": "creditCard",
+						"dueDate": null,
+						"accountId": "36A13D07DDB6471D82008C0D12BB8200",
+						"parentAccountId": null,
+						"bankIssuedInvoiceIdentificationNumber": null,
+						"bankIssuedInvoiceIdentificationNumberFormatted": null,
+						"bankIssuedInvoiceBarCodeNumber": null,
+						"bankIssuedInvoiceBarCodeType": null
+					}
+				],
+				"sharedTransaction": false
+			}
+		]
+	},
+	"clientPreferencesData": {
+		"locale": "pt-BR",
+		"optinNewsLetter": true
+	},
+	"commercialConditionData": null,
+	"marketingData": {
+		"utmSource": "codvendedora",
+		"utmMedium": null,
+		"utmCampaign": "LOJ3333",
+		"utmipage": "",
+		"utmiPart": "",
+		"utmiCampaign": "",
+		"coupon": null,
+		"marketingTags": []
+	},
+	"storePreferencesData": {
+		"countryCode": "BRA",
+		"saveUserData": false,
+		"timeZone": "E. South America Standard Time",
+		"currencyCode": "BRL",
+		"currencyLocale": 1046,
+		"currencySymbol": "R$",
+		"currencyFormatInfo": {
+			"currencyDecimalDigits": 2,
+			"currencyDecimalSeparator": ",",
+			"currencyGroupSeparator": ".",
+			"currencyGroupSize": 3,
+			"startsWithCurrencySymbol": true
+		}
+	},
+	"openTextField": {
+		"value": "LOJ3333"
+	},
+	"invoiceData": null,
+	"itemMetadata": null,
+	"taxData": null,
+	"customData": null,
+	"hooksData": null,
+	"changeData": null,
+	"subscriptionData": null,
+	"salesChannel": "1",
+	"followUpEmail": "13053f9533bf43f0bdea98b5b9014759@ct.vtex.com.br",
+	"creationDate": "2020-04-20T20:27:40.8765533Z",
+	"lastChange": "2020-04-22T15:35:27.9163549Z",
+	"timeZoneCreationDate": "2020-04-20T17:27:40.8765533",
+	"timeZoneLastChange": "2020-04-22T12:35:27.9163549",
+	"isCompleted": true,
+	"merchantName": null,
+	"userType": "",
+	"roundingError": 0,
+	"allowEdition": false,
+	"allowCancellation": false,
+	"isUserDataVisible": false,
+	"allowChangeSeller": false,
+	"_accountInfo": {
+		"HostName": "qamarketplace",
+		"MainAccountName": "qamarketplace",
+		"IsPersisted": true,
+		"IsRemoved": false,
+		"Id": "e39d05f9-0c54-4469-a626-8bb5cff169f8",
+		"Cnpj": "99999999999999",
+		"CompanyName": "QA Marketplace VTEX",
+		"TradingName": "VTEX Developers",
+		"AccountName": "qamarketplace",
+		"DefaultUrl": null,
+		"Address": "Praia de Botafogo",
+		"Number": "518",
+		"Complement": "2 andar",
+		"District": "Botafogo",
+		"City": "Rio de Janeiro",
+		"State": "RJ",
+		"PostalCode": "22250-040",
+		"Country": "Brazil",
+		"Telephone": null,
+		"IsActive": true,
+		"Sponsor": "d79f2b67-2d3f-4cd8-9337-5f5dda7c757a",
+		"Logo": null,
+		"AppId": "49fb1d8f-256f-4d5d-9280-35595c6e0493",
+		"IsOperating": false,
+		"LV": "LV-1066896",
+		"Sigla": null
+	}
+}

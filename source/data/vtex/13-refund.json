@@ -1,0 +1,529 @@
+{
+"package": {
+"items": [
+{
+"itemIndex": 0,
+"quantity": 1,
+"price": 693500,
+"description": null,
+"unitMultiplier": 0
+}
+],
+"courier": null,
+"invoiceNumber": "1722000033",
+"description": null,
+"invoiceValue": 693600,
+"invoiceUrl": null,
+"issuanceDate": "2025-07-25T18:15:19.656Z",
+"trackingNumber": null,
+"invoiceKey": null,
+"trackingUrl": null,
+"embeddedInvoice": "",
+"type": "Input",
+"courierStatus": null,
+"cfop": null,
+"restitutions": {
+"Refund": {
+"value": 693600,
+"giftCardData": null,
+"items": [
+{
+"isCompensation": false,
+"compensationValue": 0,
+"id": "722",
+"quantity": 1,
+"price": 693500,
+"description": null
+}
+]
+}
+},
+"volumes": 1,
+"EnableInferItems": null
+},
+"subjectItemAttachment": {
+"item": "Aromáticas Hindú Fru...",
+"totalItems": 1
+},
+"cancellationReason": null,
+"paymentData": {
+"giftCards": [],
+"transactions": [
+{
+"isActive": true,
+"transactionId": "7672F2ABB2344C68B0F332DF2E4393E2",
+"merchantName": "T*************",
+"payments": [
+{
+"id": "24A2ABFBBC014611800BD8870A3B213C",
+"paymentSystem": "126",
+"paymentSystemName": "M****************",
+"value": 1519500,
+"installments": 1,
+"referenceValue": 1519500,
+"cardHolder": null,
+"cardNumber": null,
+"firstDigits": null,
+"lastDigits": null,
+"cvv2": null,
+"expireMonth": null,
+"expireYear": null,
+"url": null,
+"giftCardId": null,
+"giftCardName": null,
+"giftCardCaption": null,
+"redemptionCode": null,
+"group": "MercadoPagoWallet",
+"tid": "119868906206",
+"dueDate": null,
+"connectorResponses": {
+"Tid": "119868906206",
+"ReturnCode": null,
+"Message": null,
+"authId": "119868906206",
+"nsu": "119868906206",
+"acquirer": "MercadoPagoV2"
+},
+"giftCardProvider": null,
+"giftCardAsDiscount": null,
+"koinUrl": null,
+"accountId": null,
+"parentAccountId": null,
+"bankIssuedInvoiceIdentificationNumber": null,
+"bankIssuedInvoiceIdentificationNumberFormatted": null,
+"bankIssuedInvoiceBarCodeNumber": null,
+"bankIssuedInvoiceBarCodeType": null,
+"billingAddress": null,
+"paymentOrigin": null
+}
+]
+}
+]
+},
+"cancellationRequests": null,
+"invoiceData": {
+"address": null,
+"userPaymentInfo": null,
+"invoiceSubject": null
+},
+"clientProfileData": {
+"id": "clientProfileData",
+"email": "a***********@g****.c****************.c*.v***.c**.b*",
+"firstName": "A***",
+"lastName": "I**",
+"documentType": "dni",
+"document": "1******",
+"phone": "+1**********",
+"corporateName": null,
+"tradeName": null,
+"corporateDocument": "1*********",
+"stateInscription": null,
+"corporatePhone": null,
+"isCorporate": false,
+"userProfileId": "2e0558b6-574f-4492-b370-f99f26b766e9",
+"userProfileVersion": null,
+"customerClass": null,
+"customerCode": null
+},
+"shippingData": {
+"id": "shippingData",
+"address": {
+"addressType": "residential",
+"receiverName": "A*** B*",
+"addressId": "-674462959",
+"versionId": null,
+"entityId": null,
+"postalCode": "1***",
+"city": "C***** A******* d* B***** A****",
+"state": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+"country": "ARG",
+"street": "C**** 9**",
+"number": "5",
+"neighborhood": null,
+"complement": null,
+"reference": null,
+"geoCoordinates": [
+-51.4779552,
+-0.0039779
+]
+},
+"logisticsInfo": [
+{
+"itemIndex": 0,
+"itemId": "722",
+"selectedDeliveryChannel": "delivery",
+"selectedSla": "premium1",
+"lockTTL": "12d",
+"price": 125000,
+"listPrice": 125000,
+"sellingPrice": 125000,
+"deliveryWindow": null,
+"deliveryCompany": null,
+"shippingEstimate": "1d",
+"shippingEstimateDate": "2025-07-26T18:06:21.305927Z",
+"slas": [
+{
+"id": "premium1",
+"name": "p*******",
+"shippingEstimate": "1d",
+"shippingEstimateDate": "2025-07-26T18:06:21.305927Z",
+"deliveryWindow": null,
+"availableDeliveryWindows": [],
+"deliveryIds": [
+{
+"courierId": "1f9efab",
+"courierName": "p******************",
+"dockId": "1",
+"quantity": 1,
+"warehouseId": "1_1",
+"accountCarrierName": "t*************",
+"kitItemDetails": []
+}
+],
+"listPrice": 125000,
+"price": 125000,
+"deliveryChannel": "delivery",
+"pickupStoreInfo": {
+"additionalInfo": null,
+"address": null,
+"dockId": null,
+"friendlyName": null,
+"isPickupStore": false
+},
+"polygonName": "",
+"lockTTL": "12d",
+"pickupPointId": null,
+"transitTime": "1d",
+"pickupPointId": null,
+"transitTime": "1d"
+}
+],
+"shipsTo": [
+"ARG"
+],
+"deliveryIds": [
+{
+"courierId": "1f9efab",
+"courierName": "p******************",
+"dockId": "1",
+"quantity": 1,
+"warehouseId": "1_1",
+"accountCarrierName": "t*************",
+"kitItemDetails": []
+}
+],
+"deliveryChannels": [
+{
+"id": "delivery",
+"stockBalance": 0
+},
+{
+"id": "pickup-in-point",
+"stockBalance": 0
+}
+],
+"deliveryChannel": null,
+"pickupStoreInfo": {
+"additionalInfo": null,
+"address": null,
+"dockId": null,
+"friendlyName": null,
+"isPickupStore": false
+},
+"addressId": "-674462959",
+"versionId": null,
+"entityId": null,
+"polygonName": "",
+"pickupPointId": null,
+"transitTime": "1d"
+}
+],
+"trackingHints": [],
+"selectedAddresses": [
+{
+"addressId": "-674462959",
+"versionId": null,
+"entityId": null,
+"addressType": "residential",
+"receiverName": "A*** B*",
+"street": "C**** 9**",
+"number": "5",
+"complement": null,
+"neighborhood": null,
+"postalCode": "1***",
+"city": "C***** A******* d* B***** A****",
+"state": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+"country": "ARG",
+"reference": null,
+"geoCoordinates": [
+-51.4779552,
+-0.0039779
+]
+}
+],
+"availableAddresses": [
+{
+"addressId": "-674462959",
+"versionId": null,
+"entityId": null,
+"addressType": "residential",
+"receiverName": "A*** B*",
+"street": "C**** 9**",
+"number": "5",
+"complement": null,
+"neighborhood": null,
+"postalCode": "1***",
+"city": "C***** A******* d* B***** A****",
+"state": "CIUDAD AUTÓNOMA DE BUENOS AIRES",
+"country": "ARG",
+"reference": null,
+"geoCoordinates": [
+-51.4779552,
+-0.0039779
+]
+}
+],
+"contactInformation": [],
+"contactsInfo": []
+},
+"customData": null,
+"purchaseAgentData": null,
+"items": [
+{
+"additionalInfo": {
+"categoriesIds": "/104/",
+"productClusterId": "",
+"commercialConditionId": "1",
+"dimension": {
+"cubicweight": 0.0002,
+"height": 1,
+"length": 1,
+"weight": 1,
+"width": 1
+},
+"brandName": "I******",
+"brandId": "2000017",
+"offeringInfo": null,
+"offeringType": null,
+"offeringTypeId": null
+},
+"sellerSku": "193",
+"priceTable": null,
+"priceValidUntil": "2026-07-25T18:02:53Z",
+"callCenterOperator": null,
+"commission": 500,
+"freightCommission": 0,
+"taxCode": null,
+"catalogProvider": "vrn:vtex.catalog-api-proxy:-:redcloudone:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/722",
+"uniqueId": "31DD8EB4A24244308F1E716D6CAA2CC7",
+"id": "722",
+"productId": "255",
+"productRefId": null,
+"refId": "AHFR0707",
+"ean": null,
+"name": "A****************************",
+"skuName": "F***********",
+"modalType": null,
+"parentItemIndex": null,
+"parentAssemblyBinding": null,
+"assemblies": [],
+"tax": 0,
+"price": 683500,
+"listPrice": 683500,
+"manualPrice": null,
+"manualPriceAppliedBy": null,
+"sellingPrice": 683500,
+"rewardValue": 0,
+"isGift": false,
+"preSaleDate": null,
+"productCategoryIds": "/104/",
+"productCategories": {
+"104": "Bebidas"
+},
+"quantity": 1,
+"seller": "testseller1722",
+"sellerChain": [
+"testseller1722"
+],
+"imageUrl": "https://redcloudone.vteximg.com.br/arquivos/ids/156835-55-55/image-473fb0affaaf43b683cbee85adca52f3.jpg?v=638874973254500000",
+"detailUrl": "/aromaticas-hindu-255/p",
+"components": [],
+"bundleItems": [],
+"attachments": [],
+"attachmentOfferings": [],
+"offerings": [],
+"priceTags": [
+{
+"name": "T***********",
+"value": 10000,
+"rawValue": 100,
+"isPercentual": false,
+"identifier": null
+}
+],
+"availability": "available",
+"measurementUnit": "un",
+"unitMultiplier": 1,
+"manufacturerCode": null,
+"priceDefinition": {
+"calculatedSellingPrice": 683500,
+"total": 683500,
+"sellingPrices": [
+{
+"value": 683500,
+"quantity": 1
+}
+]
+}
+}
+],
+"sellers": [
+{
+"subSellerId": "1",
+"fulfillmentEndpoint": "http://fulfillment.vtexcommerce.com.br/api/fulfillment?an=testseller1722&affiliateId=RDC&sc=1",
+"id": "testseller1722",
+"name": "T*****************",
+"logo": ""
+}
+],
+"giftRegistryData": null,
+"receiptData": null,
+"contextData": null,
+"purchaseAgentData": null,
+"marketPlaceOrderId": "",
+"marketPlaceOrderGroup": null,
+"marketplaceServicesEndpoint": null,
+"orderFormId": "9bda0b6bdc204f35bc77179cbd29216d",
+"sequence": "500939",
+"affiliateId": "",
+"status": "",
+"callCenterOperator": "",
+"userProfileId": "2e0558b6-574f-4492-b370-f99f26b766e9",
+"hostName": "r**********",
+"creationVersion": null,
+"creationEnvironment": null,
+"lastChangeVersion": null,
+"workflowInstanceId": null,
+"marketplacePaymentValue": null,
+"orderId": "1549380500939-01",
+"orderGroup": "1549380500939",
+"state": "payment-approved",
+"isCheckedIn": false,
+"sellerOrderId": "RDC-1549380500939-01",
+"storeId": null,
+"checkedInPickupPointId": null,
+"value": 1519500,
+"totals": [
+{
+"id": "Items",
+"name": "T*****************",
+"value": 1259500
+},
+{
+"id": "Discounts",
+"name": "T******************",
+"value": 0
+},
+{
+"id": "Shipping",
+"name": "C********************",
+"value": 250000
+},
+{
+"id": "Tax",
+"name": "C*********************",
+"value": 0
+},
+{
+"id": "CustomTax",
+"name": "T****",
+"value": 10000
+}
+],
+"ratesAndBenefitsData": {
+"rateAndBenefitsIdentifiers": [],
+"teaser": []
+},
+"clientPreferencesData": {
+"locale": "es-AR",
+"optinNewsLetter": false
+},
+"commercialConditionData": null,
+"marketingData": {
+"utmSource": null,
+"utmMedium": "435625e2-5140-11f0-b37f-ab10aa38914a",
+"utmCampaign": "450deed8-8a34-11ef-b37f-833523f13a86",
+"utmipage": null,
+"utmiPart": null,
+"utmiCampaign": null,
+"coupon": null,
+"marketingTags": []
+},
+"storePreferencesData": {
+"countryCode": "ARG",
+"saveUserData": false,
+"timeZone": "Argentina Standard Time",
+"currencyCode": "ARS",
+"currencyLocale": 11274,
+"currencySymbol": "$",
+"currencyFormatInfo": {
+"currencyDecimalDigits": 2,
+"currencyDecimalSeparator": ",",
+"currencyGroupSeparator": ".",
+"currencyGroupSize": 3,
+"startsWithCurrencySymbol": true
+}
+},
+"openTextField": null,
+"itemMetadata": null,
+"taxData": null,
+"hooksData": null,
+"changeData": null,
+"subscriptionData": null,
+"salesChannel": "1",
+"followUpEmail": "4**********************************.v***.c**.b*",
+"creationDate": "2025-07-25T18:05:43.0803787Z",
+"lastChange": "2025-07-25T18:15:22.2705882Z",
+"timeZoneCreationDate": "2025-07-25T15:05:43.0803787",
+"timeZoneLastChange": "2025-07-25T15:15:22.2705882",
+"isCompleted": true,
+"merchantName": "T*************",
+"userType": "",
+"roundingError": 0,
+"allowEdition": false,
+"allowCancellation": false,
+"isUserDataVisible": false,
+"allowChangeSeller": false,
+"_accountInfo": {
+"MainAccountName": "r**********",
+"AccountName": "r**********",
+"Cnpj": null,
+"Id": "fd31b987-e36b-46fe-8ba6-c138195e1294",
+"AppId": null,
+"IsActive": true,
+"IsOperating": false,
+"CreationDate": "2024-08-28T19:01:14.1497321Z",
+"OperationDate": null,
+"CompanyName": "R****************************",
+"TradingName": "R*******",
+"City": null,
+"Complement": null,
+"Country": null,
+"State": null,
+"Address": null,
+"District": null,
+"Number": null,
+"PostalCode": null,
+"Licenses": [
+7
+],
+"ParentAccountId": null,
+"ParentAccountName": null,
+"InactivationDate": null,
+"Platform": "vtex",
+"Privacy": null,
+"HasPiiRestriction": false,
+"Infra": null,
+"Sponsor": "d4b0a111-ef96-429c-9321-cdc0134aa328"
+}
+}

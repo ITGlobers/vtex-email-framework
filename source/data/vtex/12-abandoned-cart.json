@@ -1,0 +1,59 @@
+{
+"email": "m*****.g*****@i********.c**",
+"items": [
+{
+"id": "10",
+"productName": "C*****************************************",
+"image": "https://redcloudone.vteximg.com.br/arquivos/ids/155529/FLFQQ0B.png?v=638634201983470000",
+"sellingPrice": "41350.00",
+"quantity": "1",
+"link": "c***************************************",
+"availabilityQuantity": 21
+},
+{
+"id": "14",
+"productName": "1**************************************",
+"image": "https://redcloudone.vteximg.com.br/arquivos/ids/155541/YPJW322.jpg?v=638634202011630000",
+"sellingPrice": "48000.00",
+"quantity": "1",
+"link": "1***********************************",
+"availabilityQuantity": 28
+}
+],
+"addToCartURL": "add?sku=1&qty=1&seller=1&sku=10&qty=1&seller=1&sku=14&qty=1&seller=testseller5502&sc=1",
+"additionalFields": {
+"firstName": "k***"
+},
+"_accountInfo": {
+"MainAccountName": "r**********",
+"AccountName": "r**********",
+"Cnpj": null,
+"Id": "fd31b987-e36b-46fe-8ba6-c138195e1294",
+"AppId": null,
+"IsActive": true,
+"IsOperating": false,
+"CreationDate": "2024-08-28T19:01:14.1497321Z",
+"OperationDate": null,
+"CompanyName": "R****************************",
+"TradingName": "R*******",
+"City": null,
+"Complement": null,
+"Country": null,
+"State": null,
+"Address": null,
+"District": null,
+"Number": null,
+"PostalCode": null,
+"Licenses": [
+7
+],
+"ParentAccountId": null,
+"ParentAccountName": null,
+"InactivationDate": null,
+"Platform": "vtex",
+"Privacy": null,
+"HasPiiRestriction": false,
+"Infra": null,
+"Sponsor": "d4b0a111-ef96-429c-9321-cdc0134aa328"
+}
+}

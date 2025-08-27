@@ -1,0 +1,1120 @@
+{
+	"orders": [
+		{
+			"package": null,
+			"subjectItemAttachment": {
+				"item": "Camiseta de manga co...",
+				"totalItems": 5,
+				"extraItems": 4
+			},
+			"cancellationReason": null,
+			"paymentData": {
+				"giftCards": [],
+				"transactions": [
+					{
+						"isActive": true,
+						"transactionId": "58B5117B3837489F9212205485FF8939",
+						"merchantName": "R**********",
+						"payments": [
+							{
+								"id": "F684A7996407429CAB6198814A43D78C",
+								"paymentSystem": "708",
+								"paymentSystemName": "M**************",
+								"value": 84200,
+								"installments": 1,
+								"referenceValue": 84200,
+								"cardHolder": null,
+								"cardNumber": null,
+								"firstDigits": null,
+								"lastDigits": null,
+								"cvv2": null,
+								"expireMonth": null,
+								"expireYear": null,
+								"url": null,
+								"giftCardId": null,
+								"giftCardName": null,
+								"giftCardCaption": null,
+								"redemptionCode": null,
+								"group": "MercadoCredito",
+								"tid": "118542848927",
+								"dueDate": null,
+								"connectorResponses": {
+									"Tid": "118542848927",
+									"ReturnCode": null,
+									"Message": null,
+									"authId": "118542848927",
+									"nsu": "118542848927",
+									"acquirer": "MercadoPagoV2"
+								},
+								"giftCardProvider": null,
+								"giftCardAsDiscount": null,
+								"koinUrl": null,
+								"accountId": null,
+								"parentAccountId": null,
+								"bankIssuedInvoiceIdentificationNumber": null,
+								"bankIssuedInvoiceIdentificationNumberFormatted": null,
+								"bankIssuedInvoiceBarCodeNumber": null,
+								"bankIssuedInvoiceBarCodeType": null,
+								"billingAddress": null,
+								"paymentOrigin": null
+							}
+						]
+					}
+				]
+			},
+			"cancellationRequests": null,
+			"invoiceData": null,
+			"clientProfileData": {
+				"id": "clientProfileData",
+				"email": "0*******************************@c*.v***.c**.b*",
+				"firstName": "M***** D******",
+				"lastName": "G*****",
+				"documentType": "dni",
+				"document": "1*******",
+				"phone": "+5***********",
+				"corporateName": null,
+				"tradeName": null,
+				"corporateDocument": null,
+				"stateInscription": null,
+				"corporatePhone": null,
+				"isCorporate": false,
+				"userProfileId": "bb662fdd-fdd8-406e-b7a7-91a9c348c800",
+				"userProfileVersion": null,
+				"customerClass": null,
+				"customerCode": null
+			},
+			"shippingData": {
+				"id": "shippingData",
+				"address": {
+					"addressType": "residential",
+					"receiverName": "a*** T",
+					"addressId": "0",
+					"versionId": null,
+					"entityId": null,
+					"postalCode": "1***",
+					"city": "C***** A******* d* B***** A****",
+					"state": "Ciudad Autónoma de Buenos Aires",
+					"country": "ARG",
+					"street": "L*********",
+					"number": "1",
+					"neighborhood": null,
+					"complement": null,
+					"reference": null,
+					"geoCoordinates": [
+						-51.4779552,
+						-0.0039779
+					]
+				},
+				"logisticsInfo": [
+					{
+						"itemIndex": 0,
+						"itemId": "10",
+						"selectedDeliveryChannel": "delivery",
+						"selectedSla": "Entrega estándar",
+						"lockTTL": "12d",
+						"price": 500,
+						"listPrice": 500,
+						"sellingPrice": 500,
+						"deliveryWindow": null,
+						"deliveryCompany": null,
+						"shippingEstimate": "5bd",
+						"shippingEstimateDate": "2025-07-25T15:03:51.994284Z",
+						"slas": [
+							{
+								"id": "Entrega estándar",
+								"name": "E***************",
+								"shippingEstimate": "5bd",
+								"shippingEstimateDate": "2025-07-25T15:03:51.994284Z",
+								"deliveryWindow": null,
+								"availableDeliveryWindows": [],
+								"deliveryIds": [
+									{
+										"courierId": "1",
+										"courierName": "T**********************",
+										"dockId": "1",
+										"quantity": 5,
+										"warehouseId": "1_1",
+										"accountCarrierName": "r****************",
+										"kitItemDetails": []
+									}
+								],
+								"listPrice": 500,
+								"price": 500,
+								"deliveryChannel": "delivery",
+								"pickupStoreInfo": {
+									"additionalInfo": null,
+									"address": null,
+									"dockId": null,
+									"friendlyName": null,
+									"isPickupStore": false
+								},
+								"polygonName": "",
+								"lockTTL": "12d",
+								"pickupPointId": null,
+								"transitTime": "3bd",
+								"pickupDistance": null
+							}
+						],
+						"shipsTo": [
+							"ARG"
+						],
+						"deliveryIds": [
+							{
+								"courierId": "1",
+								"courierName": "T**********************",
+								"dockId": "1",
+								"quantity": 5,
+								"warehouseId": "1_1",
+								"accountCarrierName": "r****************",
+								"kitItemDetails": []
+							}
+						],
+						"deliveryChannels": [
+							{
+								"id": "delivery",
+								"stockBalance": 0
+							}
+						],
+						"deliveryChannel": null,
+						"pickupStoreInfo": {
+							"additionalInfo": null,
+							"address": null,
+							"dockId": null,
+							"friendlyName": null,
+							"isPickupStore": false
+						},
+						"addressId": "0",
+						"versionId": null,
+						"entityId": null,
+						"polygonName": "",
+						"pickupPointId": null,
+						"transitTime": "3bd"
+					}
+				],
+				"trackingHints": [],
+				"selectedAddresses": [
+					{
+						"addressId": "0",
+						"versionId": null,
+						"entityId": null,
+						"addressType": "residential",
+						"receiverName": "a*** T",
+						"street": "L*********",
+						"number": "1",
+						"complement": null,
+						"neighborhood": null,
+						"postalCode": "1***",
+						"city": "C***** A******* d* B***** A****",
+						"state": "Ciudad Autónoma de Buenos Aires",
+						"country": "ARG",
+						"reference": null,
+						"geoCoordinates": [
+							-51.4779552,
+							-0.0039779
+						]
+					}
+				],
+				"availableAddresses": [
+					{
+						"addressId": "0",
+						"versionId": null,
+						"entityId": null,
+						"addressType": "residential",
+						"receiverName": "a*** T",
+						"street": "L*********",
+						"number": "1",
+						"complement": null,
+						"neighborhood": null,
+						"postalCode": "1***",
+						"city": "C***** A******* d* B***** A****",
+						"state": "Ciudad Autónoma de Buenos Aires",
+						"country": "ARG",
+						"reference": null,
+						"geoCoordinates": [
+							-51.4779552,
+							-0.0039779
+						]
+					}
+				],
+				"contactInformation": [],
+				"contactsInfo": []
+			},
+			"customData": null,
+			"purchaseAgentData": null,
+			"items": [
+				{
+					"additionalInfo": {
+						"categoriesIds": "/1/3/",
+						"productClusterId": "137,138,140,141,143",
+						"commercialConditionId": "1",
+						"dimension": {
+							"cubicweight": 0.0002,
+							"height": 1,
+							"length": 1,
+							"weight": 1,
+							"width": 1
+						},
+						"brandName": "N*********",
+						"brandId": "2000003",
+						"offeringInfo": null,
+						"offeringType": null,
+						"offeringTypeId": null
+					},
+					"sellerSku": "13",
+					"priceTable": null,
+					"priceValidUntil": "2026-07-18T15:02:08Z",
+					"callCenterOperator": "bb662fdd-fdd8-406e-b7a7-91a9c348c800",
+					"commission": 1000,
+					"freightCommission": 500,
+					"taxCode": "559594",
+					"catalogProvider": "vrn:vtex.catalog-api-proxy:-:redcloudone:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/10",
+					"uniqueId": "B0D1C7273ADC4564BDB4CE25B55459E4",
+					"id": "10",
+					"productId": "3",
+					"productRefId": "FLFQQ0B",
+					"refId": "SJ06DC3",
+					"ean": "4174962852",
+					"name": "C*****************************************",
+					"skuName": "S",
+					"modalType": null,
+					"parentItemIndex": null,
+					"parentAssemblyBinding": null,
+					"assemblies": [],
+					"tax": 0,
+					"price": 1190,
+					"listPrice": 1190,
+					"manualPrice": null,
+					"manualPriceAppliedBy": null,
+					"sellingPrice": 1190,
+					"rewardValue": 5000,
+					"isGift": false,
+					"preSaleDate": "2024-10-11T00:00:00",
+					"productCategoryIds": "/1/3/",
+					"productCategories": {
+						"1": "Mujer",
+						"3": "Blusas y camisetas"
+					},
+					"quantity": 5,
+					"seller": "reddistributor172",
+					"sellerChain": [
+						"reddistributor172"
+					],
+					"imageUrl": "https://redcloudone.vteximg.com.br/arquivos/ids/155529-55-55/FLFQQ0B.png?v=638634201983470000",
+					"detailUrl": "/camiseta-de-manga-corta-de-tejido-pesado/p",
+					"components": [],
+					"bundleItems": [],
+					"attachments": [],
+					"attachmentOfferings": [],
+					"offerings": [],
+					"priceTags": [],
+					"availability": "available",
+					"measurementUnit": "un",
+					"unitMultiplier": 1,
+					"manufacturerCode": "23531211",
+					"priceDefinition": {
+						"calculatedSellingPrice": 1190,
+						"total": 5950,
+						"sellingPrices": [
+							{
+								"value": 1190,
+								"quantity": 5
+							}
+						]
+					}
+				}
+			],
+			"sellers": [
+				{
+					"subSellerId": "1",
+					"fulfillmentEndpoint": "http://fulfillment.vtexcommerce.com.br/api/fulfillment?an=reddistributor172&affiliateId=RDC&sc=1",
+					"id": "reddistributor172",
+					"name": "R**************",
+					"logo": ""
+				}
+			],
+			"giftRegistryData": null,
+			"receiptData": null,
+			"contextData": null,
+			"marketPlaceOrderId": "",
+			"marketPlaceOrderGroup": null,
+			"marketplaceServicesEndpoint": null,
+			"orderFormId": "ceac2066a5264020a8f5525d8c48a225",
+			"sequence": "500901",
+			"affiliateId": "",
+			"status": "",
+			"callCenterOperator": "bb662fdd-fdd8-406e-b7a7-91a9c348c800",
+			"userProfileId": "bb662fdd-fdd8-406e-b7a7-91a9c348c800",
+			"hostName": "r**********",
+			"creationVersion": null,
+			"creationEnvironment": null,
+			"lastChangeVersion": null,
+			"workflowInstanceId": null,
+			"marketplacePaymentValue": null,
+			"orderId": "1547670500900-02",
+			"orderGroup": "1547670500900",
+			"state": "payment-approved",
+			"isCheckedIn": false,
+			"sellerOrderId": "RDC-1547670500900-02",
+			"storeId": null,
+			"checkedInPickupPointId": null,
+			"value": 6450,
+			"totals": [
+				{
+					"id": "Items",
+					"name": "T*****************",
+					"value": 5950
+				},
+				{
+					"id": "Discounts",
+					"name": "T******************",
+					"value": 0
+				},
+				{
+					"id": "Shipping",
+					"name": "C********************",
+					"value": 500
+				},
+				{
+					"id": "Tax",
+					"name": "C*********************",
+					"value": 0
+				}
+			],
+			"ratesAndBenefitsData": {
+				"rateAndBenefitsIdentifiers": [],
+				"teaser": []
+			},
+			"clientPreferencesData": {
+				"locale": "es-AR",
+				"optinNewsLetter": false
+			},
+			"commercialConditionData": null,
+			"marketingData": {
+				"utmSource": null,
+				"utmMedium": "902b4e0f-61a2-11f0-b37f-f9191b94a147",
+				"utmCampaign": "8cc96019-61a2-11f0-b37f-80313293aebc",
+				"utmipage": null,
+				"utmiPart": null,
+				"utmiCampaign": null,
+				"coupon": null,
+				"marketingTags": []
+			},
+			"storePreferencesData": {
+				"countryCode": "ARG",
+				"saveUserData": false,
+				"timeZone": "Argentina Standard Time",
+				"currencyCode": "ARS",
+				"currencyLocale": 11274,
+				"currencySymbol": "$",
+				"currencyFormatInfo": {
+					"currencyDecimalDigits": 2,
+					"currencyDecimalSeparator": ",",
+					"currencyGroupSeparator": ".",
+					"currencyGroupSize": 3,
+					"startsWithCurrencySymbol": true
+				}
+			},
+			"openTextField": null,
+			"itemMetadata": null,
+			"taxData": null,
+			"hooksData": null,
+			"changeData": null,
+			"subscriptionData": null,
+			"salesChannel": "1",
+			"followUpEmail": "7**********************************.v***.c**.b*",
+			"creationDate": "2025-07-18T15:02:45.6878168Z",
+			"lastChange": "2025-07-18T15:03:53.612363Z",
+			"timeZoneCreationDate": "2025-07-18T12:02:45.6878168",
+			"timeZoneLastChange": "2025-07-18T12:03:53.612363",
+			"isCompleted": true,
+			"merchantName": null,
+			"userType": "callCenterOperator",
+			"roundingError": 0,
+			"allowEdition": false,
+			"allowCancellation": false,
+			"isUserDataVisible": false,
+			"allowChangeSeller": false
+		},
+		{
+			"package": null,
+			"subjectItemAttachment": {
+				"item": "Cinturón UFC Plata",
+				"totalItems": 9,
+				"extraItems": 8
+			},
+			"cancellationReason": null,
+			"paymentData": {
+				"giftCards": [],
+				"transactions": [
+					{
+						"isActive": true,
+						"transactionId": "58B5117B3837489F9212205485FF8939",
+						"merchantName": "R**********",
+						"payments": [
+							{
+								"id": "F684A7996407429CAB6198814A43D78C",
+								"paymentSystem": "708",
+								"paymentSystemName": "M**************",
+								"value": 84200,
+								"installments": 1,
+								"referenceValue": 84200,
+								"cardHolder": null,
+								"cardNumber": null,
+								"firstDigits": null,
+								"lastDigits": null,
+								"cvv2": null,
+								"expireMonth": null,
+								"expireYear": null,
+								"url": null,
+								"giftCardId": null,
+								"giftCardName": null,
+								"giftCardCaption": null,
+								"redemptionCode": null,
+								"group": "MercadoCredito",
+								"tid": "118542848927",
+								"dueDate": null,
+								"connectorResponses": {
+									"Tid": "118542848927",
+									"ReturnCode": null,
+									"Message": null,
+									"authId": "118542848927",
+									"nsu": "118542848927",
+									"acquirer": "MercadoPagoV2"
+								},
+								"giftCardProvider": null,
+								"giftCardAsDiscount": null,
+								"koinUrl": null,
+								"accountId": null,
+								"parentAccountId": null,
+								"bankIssuedInvoiceIdentificationNumber": null,
+								"bankIssuedInvoiceIdentificationNumberFormatted": null,
+								"bankIssuedInvoiceBarCodeNumber": null,
+								"bankIssuedInvoiceBarCodeType": null,
+								"billingAddress": null,
+								"paymentOrigin": null
+							}
+						]
+					}
+				]
+			},
+			"cancellationRequests": null,
+			"invoiceData": null,
+			"clientProfileData": {
+				"id": "clientProfileData",
+				"email": "1*******************************@c*.v***.c**.b*",
+				"firstName": "M***** D******",
+				"lastName": "G*****",
+				"documentType": "dni",
+				"document": "1*******",
+				"phone": "+5***********",
+				"corporateName": null,
+				"tradeName": null,
+				"corporateDocument": null,
+				"stateInscription": null,
+				"corporatePhone": null,
+				"isCorporate": false,
+				"userProfileId": "bb662fdd-fdd8-406e-b7a7-91a9c348c800",
+				"userProfileVersion": null,
+				"customerClass": null,
+				"customerCode": null
+			},
+			"shippingData": {
+				"id": "shippingData",
+				"address": {
+					"addressType": "residential",
+					"receiverName": "a*** T",
+					"addressId": "0",
+					"versionId": null,
+					"entityId": null,
+					"postalCode": "1***",
+					"city": "C***** A******* d* B***** A****",
+					"state": "Ciudad Autónoma de Buenos Aires",
+					"country": "ARG",
+					"street": "L*********",
+					"number": "1",
+					"neighborhood": null,
+					"complement": null,
+					"reference": null,
+					"geoCoordinates": [
+						-51.4779552,
+						-0.0039779
+					]
+				},
+				"logisticsInfo": [
+					{
+						"itemIndex": 0,
+						"itemId": "591",
+						"selectedDeliveryChannel": "delivery",
+						"selectedSla": "Entrega estándar",
+						"lockTTL": "12d",
+						"price": 24,
+						"listPrice": 24,
+						"sellingPrice": 24,
+						"deliveryWindow": {
+							"startDateUtc": "2025-07-24T00:00:00+00:00",
+							"endDateUtc": "2025-07-24T23:59:59+00:00",
+							"price": 0
+						},
+						"deliveryCompany": null,
+						"shippingEstimate": "4bd",
+						"shippingEstimateDate": "2025-07-24T00:00:00",
+						"slas": [
+							{
+								"id": "Entrega estándar",
+								"name": "E***************",
+								"shippingEstimate": "4bd",
+								"shippingEstimateDate": "2025-07-24T00:00:00",
+								"deliveryWindow": {
+									"startDateUtc": "2025-07-24T00:00:00+00:00",
+									"endDateUtc": "2025-07-24T23:59:59+00:00",
+									"price": 0
+								},
+								"availableDeliveryWindows": [
+									{
+										"startDateUtc": "2025-07-23T00:00:00+00:00",
+										"endDateUtc": "2025-07-23T23:59:59+00:00",
+										"price": 0
+									},
+									{
+										"startDateUtc": "2025-07-24T00:00:00+00:00",
+										"endDateUtc": "2025-07-24T23:59:59+00:00",
+										"price": 0
+									}
+								],
+								"deliveryIds": [
+									{
+										"courierId": "1",
+										"courierName": "T**********************",
+										"dockId": "1",
+										"quantity": 3,
+										"warehouseId": "1_1",
+										"accountCarrierName": "j***********************",
+										"kitItemDetails": []
+									}
+								],
+								"listPrice": 24,
+								"price": 24,
+								"deliveryChannel": "delivery",
+								"pickupStoreInfo": {
+									"additionalInfo": null,
+									"address": null,
+									"dockId": null,
+									"friendlyName": null,
+									"isPickupStore": false
+								},
+								"polygonName": "",
+								"lockTTL": "12d",
+								"pickupPointId": null,
+								"transitTime": "3bd",
+								"pickupDistance": null
+							}
+						],
+						"shipsTo": [
+							"ARG"
+						],
+						"deliveryIds": [
+							{
+								"courierId": "1",
+								"courierName": "T**********************",
+								"dockId": "1",
+								"quantity": 3,
+								"warehouseId": "1_1",
+								"accountCarrierName": "j***********************",
+								"kitItemDetails": []
+							}
+						],
+						"deliveryChannels": [
+							{
+								"id": "delivery",
+								"stockBalance": 0
+							}
+						],
+						"deliveryChannel": null,
+						"pickupStoreInfo": {
+							"additionalInfo": null,
+							"address": null,
+							"dockId": null,
+							"friendlyName": null,
+							"isPickupStore": false
+						},
+						"addressId": "0",
+						"versionId": null,
+						"entityId": null,
+						"polygonName": "",
+						"pickupPointId": null,
+						"transitTime": "3bd"
+					},
+					{
+						"itemIndex": 1,
+						"itemId": "65",
+						"selectedDeliveryChannel": "delivery",
+						"selectedSla": "Entrega estándar",
+						"lockTTL": "12d",
+						"price": 476,
+						"listPrice": 476,
+						"sellingPrice": 476,
+						"deliveryWindow": {
+							"startDateUtc": "2025-07-24T00:00:00+00:00",
+							"endDateUtc": "2025-07-24T23:59:59+00:00",
+							"price": 0
+						},
+						"deliveryCompany": null,
+						"shippingEstimate": "4bd",
+						"shippingEstimateDate": "2025-07-24T00:00:00",
+						"slas": [
+							{
+								"id": "Entrega estándar",
+								"name": "E***************",
+								"shippingEstimate": "4bd",
+								"shippingEstimateDate": "2025-07-24T00:00:00",
+								"deliveryWindow": {
+									"startDateUtc": "2025-07-24T00:00:00+00:00",
+									"endDateUtc": "2025-07-24T23:59:59+00:00",
+									"price": 0
+								},
+								"availableDeliveryWindows": [
+									{
+										"startDateUtc": "2025-07-23T00:00:00+00:00",
+										"endDateUtc": "2025-07-23T23:59:59+00:00",
+										"price": 0
+									},
+									{
+										"startDateUtc": "2025-07-24T00:00:00+00:00",
+										"endDateUtc": "2025-07-24T23:59:59+00:00",
+										"price": 0
+									}
+								],
+								"deliveryIds": [
+									{
+										"courierId": "1",
+										"courierName": "T**********************",
+										"dockId": "1",
+										"quantity": 6,
+										"warehouseId": "1_1",
+										"accountCarrierName": "j***********************",
+										"kitItemDetails": []
+									}
+								],
+								"listPrice": 476,
+								"price": 476,
+								"deliveryChannel": "delivery",
+								"pickupStoreInfo": {
+									"additionalInfo": null,
+									"address": null,
+									"dockId": null,
+									"friendlyName": null,
+									"isPickupStore": false
+								},
+								"polygonName": "",
+								"lockTTL": "12d",
+								"pickupPointId": null,
+								"transitTime": "3bd",
+								"pickupDistance": null
+							}
+						],
+						"shipsTo": [
+							"ARG"
+						],
+						"deliveryIds": [
+							{
+								"courierId": "1",
+								"courierName": "T**********************",
+								"dockId": "1",
+								"quantity": 6,
+								"warehouseId": "1_1",
+								"accountCarrierName": "j***********************",
+								"kitItemDetails": []
+							}
+						],
+						"deliveryChannels": [
+							{
+								"id": "delivery",
+								"stockBalance": 0
+							}
+						],
+						"deliveryChannel": null,
+						"pickupStoreInfo": {
+							"additionalInfo": null,
+							"address": null,
+							"dockId": null,
+							"friendlyName": null,
+							"isPickupStore": false
+						},
+						"addressId": "0",
+						"versionId": null,
+						"entityId": null,
+						"polygonName": "",
+						"pickupPointId": null,
+						"transitTime": "3bd"
+					}
+				],
+				"trackingHints": [],
+				"selectedAddresses": [
+					{
+						"addressId": "0",
+						"versionId": null,
+						"entityId": null,
+						"addressType": "residential",
+						"receiverName": "a*** T",
+						"street": "L*********",
+						"number": "1",
+						"complement": null,
+						"neighborhood": null,
+						"postalCode": "1***",
+						"city": "C***** A******* d* B***** A****",
+						"state": "Ciudad Autónoma de Buenos Aires",
+						"country": "ARG",
+						"reference": null,
+						"geoCoordinates": [
+							-51.4779552,
+							-0.0039779
+						]
+					}
+				],
+				"availableAddresses": [
+					{
+						"addressId": "0",
+						"versionId": null,
+						"entityId": null,
+						"addressType": "residential",
+						"receiverName": "a*** T",
+						"street": "L*********",
+						"number": "1",
+						"complement": null,
+						"neighborhood": null,
+						"postalCode": "1***",
+						"city": "C***** A******* d* B***** A****",
+						"state": "Ciudad Autónoma de Buenos Aires",
+						"country": "ARG",
+						"reference": null,
+						"geoCoordinates": [
+							-51.4779552,
+							-0.0039779
+						]
+					}
+				],
+				"contactInformation": [],
+				"contactsInfo": []
+			},
+			"customData": null,
+			"purchaseAgentData": null,
+			"items": [
+				{
+					"additionalInfo": {
+						"categoriesIds": "/19/70/",
+						"productClusterId": "",
+						"commercialConditionId": "1",
+						"dimension": {
+							"cubicweight": 0.0002,
+							"height": 1,
+							"length": 1,
+							"weight": 1,
+							"width": 1
+						},
+						"brandName": "P***********",
+						"brandId": "2000010",
+						"offeringInfo": null,
+						"offeringType": null,
+						"offeringTypeId": null
+					},
+					"sellerSku": "20",
+					"priceTable": null,
+					"priceValidUntil": "2026-07-18T15:02:13Z",
+					"callCenterOperator": "bb662fdd-fdd8-406e-b7a7-91a9c348c800",
+					"commission": 0,
+					"freightCommission": 0,
+					"taxCode": null,
+					"catalogProvider": "vrn:vtex.catalog-api-proxy:-:redcloudone:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/591",
+					"uniqueId": "A68EF2B6BB9A4D7AB4CDD3F9C99C2A4F",
+					"id": "591",
+					"productId": "193",
+					"productRefId": "0NUJVWO",
+					"refId": "R142GY2",
+					"ean": null,
+					"name": "[***********************************************************",
+					"skuName": "1********",
+					"modalType": null,
+					"parentItemIndex": null,
+					"parentAssemblyBinding": null,
+					"assemblies": [],
+					"tax": 0,
+					"price": 3750,
+					"listPrice": 3750,
+					"manualPrice": null,
+					"manualPriceAppliedBy": null,
+					"sellingPrice": 3750,
+					"rewardValue": 0,
+					"isGift": false,
+					"preSaleDate": null,
+					"productCategoryIds": "/19/70/",
+					"productCategories": {
+						"19": "Panadería",
+						"70": "Panificados"
+					},
+					"quantity": 3,
+					"seller": "juancitodistribuidora869",
+					"sellerChain": [
+						"juancitodistribuidora869"
+					],
+					"imageUrl": "https://redcloudone.vteximg.com.br/arquivos/ids/156662-55-55/R142GY2.png?v=638719604837530000",
+					"detailUrl": "/medialunas-hesai-integrales-de-masa-madre/p",
+					"components": [],
+					"bundleItems": [],
+					"attachments": [],
+					"attachmentOfferings": [],
+					"offerings": [],
+					"priceTags": [],
+					"availability": "available",
+					"measurementUnit": "un",
+					"unitMultiplier": 1,
+					"manufacturerCode": null,
+					"priceDefinition": {
+						"calculatedSellingPrice": 3750,
+						"total": 11250,
+						"sellingPrices": [
+							{
+								"value": 3750,
+								"quantity": 3
+							}
+						]
+					}
+				},
+				{
+					"additionalInfo": {
+						"categoriesIds": "/1/",
+						"productClusterId": "141",
+						"commercialConditionId": "1",
+						"dimension": {
+							"cubicweight": 16.6667,
+							"height": 40,
+							"length": 100,
+							"weight": 10,
+							"width": 20
+						},
+						"brandName": "U**",
+						"brandId": "2000008",
+						"offeringInfo": null,
+						"offeringType": null,
+						"offeringTypeId": null
+					},
+					"sellerSku": "64",
+					"priceTable": null,
+					"priceValidUntil": "2026-07-18T15:02:11Z",
+					"callCenterOperator": "bb662fdd-fdd8-406e-b7a7-91a9c348c800",
+					"commission": 0,
+					"freightCommission": 0,
+					"taxCode": null,
+					"catalogProvider": "vrn:vtex.catalog-api-proxy:-:redcloudone:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/65",
+					"uniqueId": "EAA39CE7FB0649F685528FA5EF11F5C1",
+					"id": "65",
+					"productId": "24",
+					"productRefId": null,
+					"refId": "1233",
+					"ean": "9987",
+					"name": "C*****************",
+					"skuName": "P****",
+					"modalType": null,
+					"parentItemIndex": null,
+					"parentAssemblyBinding": null,
+					"assemblies": [],
+					"tax": 0,
+					"price": 11000,
+					"listPrice": 11000,
+					"manualPrice": null,
+					"manualPriceAppliedBy": null,
+					"sellingPrice": 11000,
+					"rewardValue": 0,
+					"isGift": false,
+					"preSaleDate": null,
+					"productCategoryIds": "/1/",
+					"productCategories": {
+						"1": "Mujer"
+					},
+					"quantity": 6,
+					"seller": "juancitodistribuidora869",
+					"sellerChain": [
+						"juancitodistribuidora869"
+					],
+					"imageUrl": "https://redcloudone.vteximg.com.br/arquivos/ids/155714-55-55/image-af8fac6c0b6f41aba870157de2af435e.jpg?v=638725532326530000",
+					"detailUrl": "/cinturon-ufc/p",
+					"components": [],
+					"bundleItems": [],
+					"attachments": [],
+					"attachmentOfferings": [],
+					"offerings": [],
+					"priceTags": [],
+					"availability": "available",
+					"measurementUnit": "un",
+					"unitMultiplier": 1,
+					"manufacturerCode": null,
+					"priceDefinition": {
+						"calculatedSellingPrice": 11000,
+						"total": 66000,
+						"sellingPrices": [
+							{
+								"value": 11000,
+								"quantity": 6
+							}
+						]
+					}
+				}
+			],
+			"sellers": [
+				{
+					"subSellerId": "1",
+					"fulfillmentEndpoint": "http://fulfillment.vtexcommerce.com.br/api/fulfillment?an=juancitodistribuidora869&affiliateId=RDC&sc=1",
+					"id": "juancitodistribuidora869",
+					"name": "J*********************",
+					"logo": ""
+				}
+			],
+			"giftRegistryData": null,
+			"receiptData": null,
+			"contextData": null,
+			"marketPlaceOrderId": "",
+			"marketPlaceOrderGroup": null,
+			"marketplaceServicesEndpoint": null,
+			"orderFormId": "ceac2066a5264020a8f5525d8c48a225",
+			"sequence": "500900",
+			"affiliateId": "",
+			"status": "",
+			"callCenterOperator": "bb662fdd-fdd8-406e-b7a7-91a9c348c800",
+			"userProfileId": "bb662fdd-fdd8-406e-b7a7-91a9c348c800",
+			"hostName": "r**********",
+			"creationVersion": null,
+			"creationEnvironment": null,
+			"lastChangeVersion": null,
+			"workflowInstanceId": null,
+			"marketplacePaymentValue": null,
+			"orderId": "1547670500900-01",
+			"orderGroup": "1547670500900",
+			"state": "payment-pending",
+			"isCheckedIn": false,
+			"sellerOrderId": "RDC-1547670500900-01",
+			"storeId": null,
+			"checkedInPickupPointId": null,
+			"value": 77750,
+			"totals": [
+				{
+					"id": "Items",
+					"name": "T*****************",
+					"value": 77250
+				},
+				{
+					"id": "Discounts",
+					"name": "T******************",
+					"value": 0
+				},
+				{
+					"id": "Shipping",
+					"name": "C********************",
+					"value": 500
+				},
+				{
+					"id": "Tax",
+					"name": "C*********************",
+					"value": 0
+				}
+			],
+			"ratesAndBenefitsData": {
+				"rateAndBenefitsIdentifiers": [],
+				"teaser": []
+			},
+			"clientPreferencesData": {
+				"locale": "es-AR",
+				"optinNewsLetter": false
+			},
+			"commercialConditionData": null,
+			"marketingData": {
+				"utmSource": null,
+				"utmMedium": "902b4e0f-61a2-11f0-b37f-f9191b94a147",
+				"utmCampaign": "8cc96019-61a2-11f0-b37f-80313293aebc",
+				"utmipage": null,
+				"utmiPart": null,
+				"utmiCampaign": null,
+				"coupon": null,
+				"marketingTags": []
+			},
+			"storePreferencesData": {
+				"countryCode": "ARG",
+				"saveUserData": false,
+				"timeZone": "Argentina Standard Time",
+				"currencyCode": "ARS",
+				"currencyLocale": 11274,
+				"currencySymbol": "$",
+				"currencyFormatInfo": {
+					"currencyDecimalDigits": 2,
+					"currencyDecimalSeparator": ",",
+					"currencyGroupSeparator": ".",
+					"currencyGroupSize": 3,
+					"startsWithCurrencySymbol": true
+				}
+			},
+			"openTextField": null,
+			"itemMetadata": null,
+			"taxData": null,
+			"hooksData": null,
+			"changeData": null,
+			"subscriptionData": null,
+			"salesChannel": "1",
+			"followUpEmail": "2**********************************.v***.c**.b*",
+			"creationDate": "2025-07-18T15:02:45.6876172Z",
+			"lastChange": "2025-07-18T15:03:49.5634103Z",
+			"timeZoneCreationDate": "2025-07-18T12:02:45.6876172",
+			"timeZoneLastChange": "2025-07-18T12:03:49.5634103",
+			"isCompleted": true,
+			"merchantName": null,
+			"userType": "callCenterOperator",
+			"roundingError": 0,
+			"allowEdition": false,
+			"allowCancellation": false,
+			"isUserDataVisible": false,
+			"allowChangeSeller": false
+		}
+	],
+	"ordersUrl": "http://kadu--redcloudone.myvtex.com/account#/orders",
+	"orderGroup": "1547670500900",
+	"subjectItemAttachment": {
+		"item": "Cinturón UFC Plata",
+		"totalItems": 14,
+		"extraItems": 13
+	},
+	"split": false,
+	"totalValue": 84200,
+	"callCenterOperatorData": {
+		"email": "m*****.g*****@i********.c**",
+		"userName": "m**************************"
+	},
+	"_accountInfo": {
+		"MainAccountName": "r**********",
+		"AccountName": "r**********",
+		"Cnpj": null,
+		"Id": "fd31b987-e36b-46fe-8ba6-c138195e1294",
+		"AppId": null,
+		"IsActive": true,
+		"IsOperating": false,
+		"CreationDate": "2024-08-28T19:01:14.1497321Z",
+		"OperationDate": null,
+		"CompanyName": "R****************************",
+		"TradingName": "R*******",
+		"City": null,
+		"Complement": null,
+		"Country": null,
+		"State": null,
+		"Address": null,
+		"District": null,
+		"Number": null,
+		"PostalCode": null,
+		"Licenses": [
+			7
+		],
+		"ParentAccountId": null,
+		"ParentAccountName": null,
+		"InactivationDate": null,
+		"Platform": "vtex",
+		"Privacy": null,
+		"HasPiiRestriction": false,
+		"Infra": null,
+		"Sponsor": "d4b0a111-ef96-429c-9321-cdc0134aa328"
+	}
+}
