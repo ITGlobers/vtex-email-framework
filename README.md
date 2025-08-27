@@ -48,7 +48,7 @@ Before you begin, ensure you have the following installed:
 1.  **Clone the repository**:
 
     ```bash
-    git clone https://github.com/kadu-m/vtex-emails.git
+    git clone https://github.com/ITGlobers/vtex-email-framework
     cd vtex-emails
     ```
 
